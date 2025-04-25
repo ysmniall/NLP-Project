@@ -13,12 +13,12 @@
           {
             "name": "گوجه فرنگی",
             "amount": "به مقدار کافی",
-            "unit": ""
+            "unit": null
           },
           {
             "name": "سبزی آش",
             "amount": "به مقدار لازم",
-            "unit": ""
+            "unit": null
           },
           {
             "name": "پیاز",
@@ -28,32 +28,32 @@
           {
             "name": "لپه",
             "amount": "به مقدار لازم",
-            "unit": ""
+            "unit": null
           },
           {
             "name": "برنج",
             "amount": "به مقدار لازم",
-            "unit": ""
+            "unit": null
           },
           {
             "name": "نمک",
             "amount": "به مقدار لازم",
-            "unit": ""
+            "unit": null
           },
           {
             "name": "فلفل",
             "amount": "به مقدار لازم",
-            "unit": ""
+            "unit": null
           },
           {
             "name": "زرچوبه",
             "amount": "به مقدار لازم",
-            "unit": ""
+            "unit": null
           },
           {
             "name": "آب",
             "amount": "به مقدار لازم",
-            "unit": ""
+            "unit": null
           }
         ],
         "instructions": [
@@ -69,7 +69,7 @@
           "آش و سوپ"
         ],
         "occasion": [
-          "ناهار",
+          
           "شام"
         ],
         "images": {
@@ -126,17 +126,17 @@
           {
             "name": "نمک",
             "amount": "به میزان دلخواه",
-            "unit": ""
+            "unit": null
           },
           {
             "name": "فلفل",
             "amount": "به میزان دلخواه",
-            "unit": ""
+            "unit": null
           },
           {
             "name": "زردچوبه",
             "amount": "به میزان دلخواه",
-            "unit": ""
+            "unit": null
           }
         ],
         "instructions": [
@@ -150,7 +150,7 @@
           "آش و سوپ"
         ],
         "occasion": [
-          "ناهار",
+          
           "شام"
         ],
         "images": {
@@ -227,22 +227,22 @@
           {
             "name": "نمک",
             "amount": "به مقدار لازم",
-            "unit": ""
+            "unit": null
           },
           {
             "name": "فلفل سیاه",
             "amount": "به مقدار لازم",
-            "unit": ""
+            "unit": null
           },
           {
             "name": "زردچوبه",
             "amount": "به مقدار لازم",
-            "unit": ""
+            "unit": null
           },
           {
             "name": "سرکه سیب",
             "amount": 2,
-            "unit": "تا 3 قاشق غذاخوری"
+            "unit": "قاشق غذاخوری"
           },
           {
             "name": "لوبیا",
@@ -252,17 +252,17 @@
           {
             "name": "شیره انگور",
             "amount": "به مقدار لازم",
-            "unit": ""
+            "unit": null
           },
           {
             "name": "روغن زیتون",
             "amount": "به مقدار لازم",
-            "unit": ""
+            "unit": null
           },
           {
             "name": "پیاز، نعناع و سیر داغ",
             "amount": "به مقدار لازم",
-            "unit": "برای تزئین"
+            "unit": null
           }
         ],
         "instructions": [
@@ -277,7 +277,7 @@
           "آش و سوپ"
         ],
         "occasion": [
-          "ناهار",
+          
           "شام"
         ],
         "images": {
@@ -361,7 +361,7 @@
           "آش و سوپ"
         ],
         "occasion": [
-          "ناهار",
+          
           "شام"
         ],
         "images": {

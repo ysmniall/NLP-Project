@@ -1,14 +1,7 @@
 [
   {
     "title": "آبگوشت کلم قمری",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "گوشت گوسفندی",
@@ -67,14 +60,7 @@
   },
   {
     "title": "کباب سرداشی همدان",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "گوشت چرخکرده",
@@ -126,14 +112,7 @@
   },
   {
     "title": "آبگوشت قورمه همدان",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "سبزی قورمه سرخ شده",
@@ -187,14 +166,7 @@
   },
   {
     "title": "کوفته همدان",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "نخود",
@@ -333,9 +305,9 @@
         "unit": "گرم"
       },
       {
-        "name": "قاشق چایخوری روغن حیوانی",
+        "name": "روغن حیوانی",
         "amount": 1.0,
-        "unit": null
+        "unit": "قاشق چایخوری"
       },
       {
         "name": "پیاز بزرگ",
@@ -382,14 +354,7 @@
   },
   {
     "title": "آش پتله",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "نخود لوبیا و عدس با هم",
@@ -445,14 +410,7 @@
   },
   {
     "title": "ترحلوای هویج",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "هویج",
@@ -503,14 +461,7 @@
   },
   {
     "title": "نان روغنی همدان (اگردک)",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد (کمتر یا بیشتر)",
@@ -574,14 +525,7 @@
   },
   {
     "title": "ترش شوربا (آش ترش همدان)",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "هو الرزاق",
@@ -604,9 +548,9 @@
         "unit": "لیوان"
       },
       {
-        "name": "قاشق غذا خوری کشمش پلویی (من نریختم)",
+        "name": "کشمش پلویی (من نریختم)",
         "amount": 3.0,
-        "unit": null
+        "unit": "قاشق غذا خوری"
       },
       {
         "name": "رشته پلویی (من رشته آشی ریختم)",
@@ -619,9 +563,9 @@
         "unit": "عدد"
       },
       {
-        "name": "قاشق غذا خوری روغن کرمانشاهی یاروغن زردیاکره",
+        "name": "روغن کرمانشاهی یاروغن زردیاکره",
         "amount": 2.0,
-        "unit": null
+        "unit": "قاشق غذا خوری"
       },
       {
         "name": "پیاز متوسط",
@@ -634,9 +578,9 @@
         "unit": "ق م"
       },
       {
-        "name": "قاشق غذا خوری نعنا خشک",
+        "name": "نعنا خشک",
         "amount": 1.0,
-        "unit": null
+        "unit": "قاشق غذا خوری"
       }
     ],
     "instructions": [
@@ -661,14 +605,7 @@
   },
   {
     "title": "آش چغندر همدان (چغندر سفید)",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "بلغور جو",
@@ -725,14 +662,7 @@
   },
   {
     "title": "کباب دیزی همدان",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "گوشت چرخ کرده",
@@ -792,14 +722,7 @@
   },
   {
     "title": "🪷اگردک همدان🪷",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "2 ‌ لیوان  آرد",
@@ -827,9 +750,9 @@
         "unit": "پنس"
       },
       {
-        "name": "ق مرباخوری زردچوبه",
+        "name": "زردچوبه",
         "amount": 1.0,
-        "unit": null
+        "unit": "ق مرباخوری"
       },
       {
         "name": "روغن برای سرخ کردن",
@@ -856,14 +779,7 @@
   },
   {
     "title": "کاچی همدان بدون شکر",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد گندم",
@@ -901,14 +817,7 @@
   },
   {
     "title": "انگشت پیچ همدان",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "گرم شکر",
@@ -926,14 +835,14 @@
         "unit": "قاشق غذاخوری"
       },
       {
-        "name": "قاشق چایخوری پودر هل (من زدم)",
+        "name": "پودر هل (من زدم)",
         "amount": 0.5,
-        "unit": null
+        "unit": "قاشق چایخوری"
       },
       {
-        "name": "قاشق چایخوری جوهر لیمو (من 1 قاشق مربا خوری آبلیمو زدم)",
+        "name": "جوهر لیمو (من 1 قاشق مربا خوری آبلیمو زدم)",
         "amount": 8.0,
-        "unit": null
+        "unit": "قاشق چایخوری"
       },
       {
         "name": "آب به  که روی شکر را کاملاً پوشش دهد",
@@ -963,14 +872,7 @@
   },
   {
     "title": "قووت همدان 🌸 دیماج",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "نان خشک (من لواش خشک شده ریختم)",
@@ -1039,14 +941,7 @@
   },
   {
     "title": "حلوا تخم مرغی همدان(بدون آرد)",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "زرده تخم مرغ",
@@ -1064,14 +959,14 @@
         "unit": null
       },
       {
-        "name": "استکان گلاب",
+        "name": "گلاب",
         "amount": 0.5,
-        "unit": null
+        "unit": "استکان"
       },
       {
-        "name": "استکان زعفران آبکی یا مایع زعفران",
+        "name": "زعفران آبکی یا مایع زعفران",
         "amount": 4.0,
-        "unit": null
+        "unit": "استکان"
       },
       {
         "name": "هل و زنجفیل یا وانیل",
@@ -1101,14 +996,7 @@
   },
   {
     "title": "نان کماج همدان با آون توستر(بدون ورز،بدون استراحت)",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد",
@@ -1131,9 +1019,9 @@
         "unit": "گرم"
       },
       {
-        "name": "قاشق غذا خوری گلاب",
+        "name": "گلاب",
         "amount": 2.0,
-        "unit": null
+        "unit": "قاشق غذا خوری"
       },
       {
         "name": "و 0",
@@ -1187,14 +1075,7 @@
   },
   {
     "title": "نان گرده همدان",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد قنادی",
@@ -1237,9 +1118,9 @@
         "unit": null
       },
       {
-        "name": "قاشق چ زردچوبه",
+        "name": "زردچوبه",
         "amount": 0.5,
-        "unit": null
+        "unit": "قاشق چ"
       },
       {
         "name": "خمیر مایه",
@@ -1305,9 +1186,9 @@
         "unit": "لیوان"
       },
       {
-        "name": "قاشق چ سرپر روغن حیوانی گوسفندی",
+        "name": "سرپر روغن حیوانی گوسفندی",
         "amount": 1.0,
-        "unit": null
+        "unit": "قاشق چ"
       },
       {
         "name": "نوک قاشق چایخوری نمک",
@@ -1367,14 +1248,7 @@
   },
   {
     "title": "آبگوشت فلفل همدان",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "گوشت آبگوشتی و دنبه",
@@ -1485,8 +1359,8 @@
         "unit": null
       },
       {
-        "name": "قلم گوسفندی به دلخواه",
-        "amount": null,
+        "name": "قلم گوسفندی",
+        "amount": "به دلخواه",
         "unit": null
       },
       {
@@ -1514,14 +1388,7 @@
   },
   {
     "title": "آش خیار چنبر همدان",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "گوشت گوسفندی",
@@ -1595,14 +1462,7 @@
   },
   {
     "title": "آبگوشت بادمجان همدان",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "گوشت آبگوشتی",
@@ -1653,14 +1513,7 @@
   },
   {
     "title": "رشته پلو مرغ همدان",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "برنج",
@@ -1715,14 +1568,7 @@
   },
   {
     "title": "بیرساق محلی همدان",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد",
@@ -1765,9 +1611,9 @@
         "unit": null
       },
       {
-        "name": "قاشق چایخوری سر پر)",
+        "name": "سر پر)",
         "amount": 1.0,
-        "unit": null
+        "unit": "قاشق چایخوری"
       }
     ],
     "instructions": [
@@ -1790,14 +1636,7 @@
   },
   {
     "title": "آش دوغ همدان",
-    "locations": [
-      {
-        "province": "همدان",
-        "city": "همدان",
-        "latitude": 34.7986,
-        "longitude": 48.5146
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "و 0",

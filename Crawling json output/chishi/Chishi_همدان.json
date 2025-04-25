@@ -1,0 +1,71 @@
+[
+  {
+    "title": "طرز تهیه خورش غوره بادمجان",
+    "locations": [
+      {
+        "province": "همدان",
+        "city": "همدان",
+        "latitude": 34.7986,
+        "longitude": 48.5146
+      }
+    ],
+    "ingredients": [],
+    "instructions": [],
+    "meal_type": [
+      "غذای اصلی گوشتی"
+    ],
+    "occasion": [
+      "ناهار"
+    ],
+    "images": {
+      "main": "",
+      "steps": []
+    }
+  },
+  {
+    "title": "طرز تهیه آش بادمجان",
+    "locations": [
+      {
+        "province": "همدان",
+        "city": "همدان",
+        "latitude": 34.7986,
+        "longitude": 48.5146
+      }
+    ],
+    "ingredients": [],
+    "instructions": [],
+    "meal_type": [
+      "آش و سوپ"
+    ],
+    "occasion": [
+      "ناهار"
+    ],
+    "images": {
+      "main": "",
+      "steps": []
+    }
+  },
+  {
+    "title": "طرز تهیه حلوای زرده همدانی",
+    "locations": [
+      {
+        "province": "همدان",
+        "city": "همدان",
+        "latitude": 34.7986,
+        "longitude": 48.5146
+      }
+    ],
+    "ingredients": [],
+    "instructions": [],
+    "meal_type": [
+      "دسر"
+    ],
+    "occasion": [
+      "ناهار"
+    ],
+    "images": {
+      "main": "",
+      "steps": []
+    }
+  }
+]

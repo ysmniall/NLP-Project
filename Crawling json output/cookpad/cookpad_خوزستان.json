@@ -89,14 +89,7 @@
   },
   {
     "title": "خورشت بامیه خوزستانی",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "گوشت به تعداد نفرات..",
@@ -159,14 +152,7 @@
   },
   {
     "title": "امگشت",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "برنج خیس شده",
@@ -223,14 +209,7 @@
   },
   {
     "title": "توله عربی (توله یا پنیرک)",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "توله (پنیرک) خرد شده",
@@ -285,14 +264,7 @@
   },
   {
     "title": "پلو شوشتری خوزستان",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "برنج",
@@ -417,14 +389,7 @@
   },
   {
     "title": "سمبوسه خوزستانی",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "سیب زمینی متوسط",
@@ -476,14 +441,7 @@
   },
   {
     "title": "پاکوره جنوبی (پاکورا)",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد نخودچى",
@@ -550,14 +508,7 @@
   },
   {
     "title": "باقالی روغن (باگله بالدّهن)",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "- 2 پیمانه باقالی با پوست (تازه یا فریزری)",
@@ -685,14 +636,7 @@
   },
   {
     "title": "ماهی صبور خوزستان",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "ماهی صبور",
@@ -718,14 +662,7 @@
   },
   {
     "title": "طرز تهیه مرصع پلو خوشمزه و مجلسی به روش رستورانی",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [],
     "instructions": [],
     "meal_type": [
@@ -765,9 +702,9 @@
         "unit": "عدد"
       },
       {
-        "name": "استکان رب انار",
+        "name": "رب انار",
         "amount": 1.0,
-        "unit": null
+        "unit": "استکان"
       },
       {
         "name": "نمک وفلفل",
@@ -825,9 +762,9 @@
         "unit": "عدد"
       },
       {
-        "name": "قاشق غذا خوری زعفران دم کرده غلیظ",
+        "name": "زعفران دم کرده غلیظ",
         "amount": 3.0,
-        "unit": null
+        "unit": "قاشق غذا خوری"
       },
       {
         "name": "کشمش یا کمتر",
@@ -870,14 +807,7 @@
   },
   {
     "title": "کلوچه عربی زنجبیلی",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد",
@@ -941,14 +871,7 @@
   },
   {
     "title": "حلوا خرمای خشک خوزستانی",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "خرما",
@@ -1003,14 +926,7 @@
   },
   {
     "title": "مفطح (مفتح) غذای معروف خوزستان",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "گوشت گوسفندی",
@@ -1076,14 +992,7 @@
   },
   {
     "title": "کلوچه خوزستان(کلوچه عربی)",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد قنادی",
@@ -1162,14 +1071,7 @@
   },
   {
     "title": "تثخانه غذای سنتی خوزستان 🥘🐟",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "پیاز بزرگ خرد شده",
@@ -1231,14 +1133,7 @@
   },
   {
     "title": "مطبگ مرغ، غذای محلی استان خوزستان، ابادان، خرمشهر",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "مرغ، سینه وران",
@@ -1284,14 +1179,7 @@
   },
   {
     "title": "لگیمات شیرینی سنتی خوزستان",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد سفید",
@@ -1351,14 +1239,7 @@
   },
   {
     "title": "قرمه سبزی خوزستان",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "گوشت خورشتی سر دست گوسفندی",
@@ -1391,9 +1272,9 @@
         "unit": "عدد"
       },
       {
-        "name": "قاشق غذا خوری آب تمر هندی غلیظ",
+        "name": "آب تمر هندی غلیظ",
         "amount": 1.0,
-        "unit": null
+        "unit": "قاشق غذا خوری"
       },
       {
         "name": "فلفل و زردچوبه و نمک",
@@ -1427,14 +1308,7 @@
   },
   {
     "title": "حمص غذای عربی خوزستان",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "برنج",
@@ -1486,14 +1360,7 @@
   },
   {
     "title": "نان کپو (فارس) نان پیته (خوزستان)",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "و 0",
@@ -1511,14 +1378,14 @@
         "unit": "حبه"
       },
       {
-        "name": "قاشق غذا خوری روغن زیتون",
+        "name": "روغن زیتون",
         "amount": 3.0,
-        "unit": null
+        "unit": "قاشق غذا خوری"
       },
       {
-        "name": "قاشق چایخوری بهبوددهنده",
+        "name": "بهبوددهنده",
         "amount": 1.0,
-        "unit": null
+        "unit": "قاشق چایخوری"
       }
     ],
     "instructions": [
@@ -1539,14 +1406,7 @@
   },
   {
     "title": "رنگینک خوزستان 👌",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد گندم",
@@ -1601,14 +1461,7 @@
   },
   {
     "title": "رنگینک خوزستان 👌",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد گندم",
@@ -1663,14 +1516,7 @@
   },
   {
     "title": "آو تفتاله (غذای محلی بختیاری)(خوزستان)",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "تفتاله(برگه زرد آلو)",
@@ -1736,14 +1582,7 @@
   },
   {
     "title": "شیرینی سنتی خوزستان (کلیت عرب)",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد",
@@ -1776,8 +1615,8 @@
         "unit": "ق چ"
       },
       {
-        "name": "ق کنجد به دلخواه",
-        "amount": 1.0,
+        "name": "ق   کنجد",
+        "amount": "به دلخواه",
         "unit": null
       },
       {
@@ -1808,14 +1647,7 @@
   },
   {
     "title": "آش خوزستان",
-    "locations": [
-      {
-        "province": "خوزستان",
-        "city": "اهواز",
-        "latitude": 31.3183,
-        "longitude": 48.6706
-      }
-    ],
+    "locations": [],
     "ingredients": [
       {
         "name": "نخود نیم کیلو",

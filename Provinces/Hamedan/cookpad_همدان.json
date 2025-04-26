@@ -2,6 +2,7 @@
   {
     "title": "آبگوشت کلم قمری",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -65,6 +66,7 @@
   {
     "title": "کباب سرداشی همدان",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -121,6 +123,7 @@
   {
     "title": "آبگوشت قورمه همدان",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -179,6 +182,7 @@
   {
     "title": "کوفته همدان",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -282,6 +286,7 @@
   {
     "title": "آش هویج و جو همدانی🍂",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -373,6 +378,7 @@
   {
     "title": "آش پتله",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -448,6 +454,7 @@
   {
     "title": "ترحلوای هویج",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -503,6 +510,7 @@
   {
     "title": "نان روغنی همدان (اگردک)",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -571,6 +579,7 @@
   {
     "title": "ترش شوربا (آش ترش همدان)",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -655,6 +664,7 @@
   {
     "title": "آش چغندر همدان (چغندر سفید)",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -736,6 +746,7 @@
   {
     "title": "کباب دیزی همدان",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -800,6 +811,7 @@
   {
     "title": "🪷اگردک همدان🪷",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -861,6 +873,7 @@
   {
     "title": "کاچی همدان بدون شکر",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -903,6 +916,7 @@
   {
     "title": "انگشت پیچ همدان",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -962,6 +976,7 @@
   {
     "title": "قووت همدان 🌸 دیماج",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -1035,6 +1050,7 @@
   {
     "title": "حلوا تخم مرغی همدان(بدون آرد)",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -1094,6 +1110,7 @@
   {
     "title": "نان کماج همدان با آون توستر(بدون ورز،بدون استراحت)",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -1172,6 +1189,7 @@
   {
     "title": "نان گرده همدان",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -1247,6 +1265,7 @@
   {
     "title": "نان شیرمال همدانی",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -1331,6 +1350,7 @@
   {
     "title": "آبگوشت فلفل همدان",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -1416,6 +1436,7 @@
   {
     "title": "آش ترخینه همدانی",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -1472,6 +1493,7 @@
   {
     "title": "آش خیار چنبر همدان",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -1560,6 +1582,7 @@
   {
     "title": "آبگوشت بادمجان همدان",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -1615,6 +1638,7 @@
   {
     "title": "رشته پلو مرغ همدان",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -1679,6 +1703,7 @@
   {
     "title": "بیرساق محلی همدان",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -1751,6 +1776,7 @@
   {
     "title": "آش دوغ همدان",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146
@@ -1820,6 +1846,7 @@
   {
     "title": "کباب همدانی",
     "location": {
+      "province": "همدان",
       "city": "همدان",
       "latitude": 34.7986,
       "longitude": 48.5146

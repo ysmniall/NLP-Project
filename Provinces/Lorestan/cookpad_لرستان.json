@@ -1,7 +1,11 @@
 [
   {
     "title": "زرشک پلو به سبک لرستان",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "تکه مرغ بزرگ",
@@ -77,7 +81,11 @@
   },
   {
     "title": "آش رشته لرستان",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "نخود",
@@ -85,12 +93,12 @@
         "unit": "گرم"
       },
       {
-        "name": "لوبیاقرمزیاچیتی",
+        "name": "لوبیا قرمز یا چیتی",
         "amount": 250.0,
         "unit": "گرم"
       },
       {
-        "name": "عدس قرمزیامعمولی",
+        "name": "عدس قرمز یا معمولی",
         "amount": 250.0,
         "unit": "گرم"
       },
@@ -110,18 +118,18 @@
         "unit": null
       },
       {
-        "name": "نمک.فلفل سیاه وزردچوبه بمقدارلازم",
-        "amount": null,
+        "name": "نمک فلفل سیاه وزردچوبه ",
+        "amount": "بمقدارلازم",
         "unit": null
       },
       {
-        "name": "کیلویی دوغ محلی ترش وخالص",
+        "name": " دوغ محلی ترش وخالص",
         "amount": 1.0,
-        "unit": null
+        "unit": "کیلو"
       },
       {
-        "name": "پونه داغ.یانعناع بمقدارلازم",
-        "amount": null,
+        "name": "پونه داغ یا نعناع ",
+        "amount": "بمقدارلازم",
         "unit": null
       },
       {
@@ -162,7 +170,11 @@
   },
   {
     "title": "کباب کوبیده لرستان",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "گوشت گوسفندی بادنبه",
@@ -212,7 +224,11 @@
   },
   {
     "title": "کشکینه محلی لرستان",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "ترخینه",
@@ -240,9 +256,19 @@
         "unit": "عدد"
       },
       {
-        "name": "نمک و فلفل سیاه و زردچوبه",
-        "amount": 2.0,
-        "unit": "قاشق مرباخوری"
+        "name": "نمک",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "فلفل سیاه",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "زردچوبه",
+        "amount": null,
+        "unit": null
       },
       {
         "name": "کشک",
@@ -250,7 +276,7 @@
         "unit": "پیمانه"
       },
       {
-        "name": "پونه خشک پودرشده",
+        "name": "پونه خشک ودرشده",
         "amount": 1.0,
         "unit": "پیمانه"
       }
@@ -274,7 +300,7 @@
       "خیلی خوشمزه ومقوی هستش حتمادرست کنیدولذتش روببرید"
     ],
     "meal_type": [
-      "-"
+      "غذای اصلی"
     ],
     "occasion": "شام",
     "images": {
@@ -285,31 +311,40 @@
   },
   {
     "title": "جوجوش.حلوای سنتی لرستان",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
-        "name": "قاشق غذاخوری گندم خرد شده.یا همان قاووت3",
+        "name": "گندم خرد شده یا همان قاووت",
+        "amount": 3.0,
+        "unit": "قاشق غذاخوری"
+      },
+      {
+        "name": "روغن حیوانی",
+        "amount": 4.0,
+        "unit": "قاشق غذاخوری"
+      },
+      {
+        "name": "شکر",
+        "amount": 2.0,
+        "unit": "قاشق غذاخوری"
+      },
+      {
+        "name": "پودر زیره",
         "amount": null,
         "unit": null
       },
       {
-        "name": "قاشق غذاخوری روغن حیوانی4",
-        "amount": null,
+        "name": "رازیانه زردچوبهبه",
+        "amount": "به مقدار دلخواه",
         "unit": null
       },
       {
-        "name": "شکر2قاشق غذاخوری",
-        "amount": null,
-        "unit": null
-      },
-      {
-        "name": "پودر زیره و رازیانه+زردچوبه.به مقدار کافی",
-        "amount": null,
-        "unit": null
-      },
-      {
-        "name": "گردو کشمش بادام.در صورت دلخواه",
-        "amount": null,
+        "name": "گردو کشمش",
+        "amount": "به مقدار دلخواه",
         "unit": null
       }
     ],
@@ -329,7 +364,11 @@
   },
   {
     "title": "کباب شامی لرستان",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "گوشت چرخ کرده",
@@ -342,7 +381,7 @@
         "unit": "عدد"
       },
       {
-        "name": "آرد نخودچی (من آرد معمولی سفید زدم)",
+        "name": "آرد نخودچی من آرد معمولی سفید زدم",
         "amount": 1.0,
         "unit": "قاشق غذاخوری"
       },
@@ -352,7 +391,32 @@
         "unit": "قاشق غذاخوری"
       },
       {
-        "name": "نمک و فلفل و زردچوبه و فلفل سیاه و قرمز و سماق",
+        "name": "نمک",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "فلفل",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "زردچوبه",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "فلفل سیاه",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "قرمز",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "سماق",
         "amount": null,
         "unit": null
       },
@@ -365,11 +429,6 @@
         "name": "سیب زمینی",
         "amount": 1.0,
         "unit": "عدد"
-      },
-      {
-        "name": "برای سس کباب 👇",
-        "amount": null,
-        "unit": null
       },
       {
         "name": "پیاز",
@@ -404,7 +463,11 @@
   },
   {
     "title": "زیربرنجی لرستان😍",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "گوشت گوسفندی",
@@ -412,14 +475,14 @@
         "unit": "کیلو"
       },
       {
-        "name": "قاشق غذا خوری زردچوبه",
+        "name": "زردچوبه",
         "amount": 1.0,
-        "unit": null
+        "unit": "قاشق غ"
       },
       {
-        "name": "قاشق غذا خوری نمک",
+        "name": "نمک",
         "amount": 2.0,
-        "unit": null
+        "unit": "قاشق غ"
       },
       {
         "name": "دنبه",
@@ -455,7 +518,11 @@
   },
   {
     "title": "نان محلی لرستان",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "آرد گندم",
@@ -463,19 +530,19 @@
         "unit": "کیلو"
       },
       {
-        "name": "آب بمقدارلازم",
-        "amount": null,
+        "name": "آب",
+        "amount": "بمقدارلازم",
         "unit": null
       },
       {
-        "name": "نمک بمقدارلازم",
-        "amount": null,
+        "name": "نمک",
+        "amount": "بمقدارلازم",
         "unit": null
       },
       {
-        "name": "قاشق خمیرمایه",
+        "name": "خمیرمایه",
         "amount": 3.0,
-        "unit": null
+        "unit": "قاشق غ"
       }
     ],
     "instructions": [
@@ -507,7 +574,11 @@
   },
   {
     "title": "حلیم گندم لرستان",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "گندم با پوستش",
@@ -515,8 +586,8 @@
         "unit": "کیلو"
       },
       {
-        "name": "آب بمقدارلازم",
-        "amount": null,
+        "name": "آب",
+        "amount": "بمقدارلازم",
         "unit": null
       },
       {
@@ -535,13 +606,13 @@
         "unit": "قاشق غ"
       },
       {
-        "name": "شکربمقدارلازم",
-        "amount": null,
+        "name": "شکر",
+        "amount": "بمقدارلازم",
         "unit": null
       },
       {
-        "name": "روغن بمقدارلازم",
-        "amount": null,
+        "name": "روغن",
+        "amount": "بمقدارلازم",
         "unit": null
       }
     ],
@@ -569,7 +640,11 @@
   },
   {
     "title": "شب یلدا (شو چله) لرستان",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "گندم",
@@ -582,17 +657,32 @@
         "unit": null
       },
       {
-        "name": "نمک و زردچوبه",
+        "name": "نمک",
         "amount": null,
         "unit": null
       },
       {
-        "name": "گردو و کشمش",
+        "name": "زردچوبه",
         "amount": null,
         "unit": null
       },
       {
-        "name": "شاهدانه و کنجد سیاه",
+        "name": "گردو",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "کشمش",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "شاهدانه",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "کنجد سیاه",
         "amount": null,
         "unit": null
       },
@@ -611,7 +701,7 @@
       "شب چله لرستان جذابیت های دیگه ای هم داره که آن شاءالله بعد ها در موردش بازم میگم."
     ],
     "meal_type": [
-      "-"
+      "غذای اصلی"
     ],
     "occasion": "شام",
     "images": {
@@ -622,7 +712,11 @@
   },
   {
     "title": "گَنِم شادونَه لرستان مخصوصِ شُو چِلَه😄❤❤❤(گندم شاهدونه مخصوص یلدا)",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "گندم شیر",
@@ -645,12 +739,17 @@
         "unit": null
       },
       {
-        "name": "مواد لازم برای گندم شیر👇",
+        "name": "زردچوبه ",
         "amount": null,
         "unit": null
       },
       {
-        "name": "زردچوبه زیره و رازیانه پودر شده نمک",
+        "name": "رازیانه پودر شده ",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "نمک",
         "amount": null,
         "unit": null
       },
@@ -667,7 +766,7 @@
       "توجه 👈ترجیحااا مخلوط گندم و شیر رو در جای خنک یا یخچال قرار دهید در طی این سه روز👌"
     ],
     "meal_type": [
-      "-"
+      "غذای اصلی"
     ],
     "occasion": "شام",
     "images": {
@@ -678,7 +777,11 @@
   },
   {
     "title": "چزنک رغو(میان وعده محلی استان لرستان)",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "آرد",
@@ -687,12 +790,12 @@
       },
       {
         "name": "نمک، زیره ، رازیانه",
-        "amount": "به مقدار لازم",
+        "amount": null,
         "unit": null
       },
       {
-        "name": "آب به مقدار کافی",
-        "amount": null,
+        "name": "آب",
+        "amount": "به مقدار کافی",
         "unit": null
       },
       {
@@ -702,7 +805,7 @@
       },
       {
         "name": "شیره خرما",
-        "amount": "به مقدار لازم",
+        "amount": null,
         "unit": null
       }
     ],
@@ -711,7 +814,7 @@
       "وقتی یک طرف اون پخت برگردونید تا طرف دیگه هم بپزد وقتی آماده شد داخل سینی یا بشقاب بگذارید و روی نان مقداری روغن حیوانی و شیره بریزید"
     ],
     "meal_type": [
-      "-"
+      "غذای اصلی"
     ],
     "occasion": "شام",
     "images": {
@@ -722,7 +825,11 @@
   },
   {
     "title": "ماست کِز زده (دودی) لرستان😋👌",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "شیر محلی پر چرب",
@@ -752,20 +859,19 @@
   },
   {
     "title": "نان کلوا لرستان",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
-        "name": "🌹خمیر",
+        "name": "خمیر",
         "amount": null,
         "unit": null
       },
       {
-        "name": "و 1",
-        "amount": 2.0,
-        "unit": null
-      },
-      {
-        "name": "شیر(تقریبا)",
+        "name": "شیرتقریبا",
         "amount": 1.0,
         "unit": "پیمانه"
       },
@@ -780,14 +886,19 @@
         "unit": "پیمانه"
       },
       {
-        "name": "رازیانه و زیره سیاه(با هم)",
-        "amount": 2.0,
-        "unit": "قاشق غذاخوری"
+        "name": "رازیانه",
+        "amount": null,
+        "unit": null
       },
       {
-        "name": "قاشق مربا خوری زردچوبه",
-        "amount": 1.0,
+        "name": "زیره",
+        "amount": null,
         "unit": null
+      },
+      {
+        "name": "زردچوبه",
+        "amount": 1.0,
+        "unit": "قاشق مربا خوری"
       },
       {
         "name": "نمک",
@@ -810,8 +921,13 @@
         "unit": "قاشق غذاخوری"
       },
       {
-        "name": "کنجد و رازیانه به دلخواه",
+        "name": "کنجد",
         "amount": null,
+        "unit": null
+      },
+      {
+        "name": "رازیانه",
+        "amount": "به دلخواه",
         "unit": null
       }
     ],
@@ -841,7 +957,11 @@
   },
   {
     "title": "نان چزنک رغو لرستان(شلکینه)",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "آرد",
@@ -900,7 +1020,11 @@
   },
   {
     "title": "نان کلوای لرستان",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "آرد",
@@ -923,14 +1047,14 @@
         "unit": "لیوان"
       },
       {
-        "name": "نوک قاشق مرباخوری  نمک یک پنس، زردچوبه، رازیانه، زیره از هر کدام",
-        "amount": null,
-        "unit": null
+        "name": "زردچوبه، رازیانه، زیره از هر کدام",
+        "amount": 1.0,
+        "unit": "قاشق مرباخوری"
       },
       {
-        "name": "قاشق غذا خوری مایع خمیر",
+        "name": "مایع خمیر",
         "amount": 1.0,
-        "unit": null
+        "unit": "قاشق غ"
       }
     ],
     "instructions": [
@@ -954,7 +1078,11 @@
   },
   {
     "title": "آبگوشت کشک (آبگوشت دودار)",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "گوشت چرب با دنبه",
@@ -962,9 +1090,14 @@
         "unit": "گرم"
       },
       {
-        "name": "لوبیا سفید و نخود از هرکدام",
-        "amount": 2.0,
-        "unit": "لیوان"
+        "name": "لوبیا سفید",
+        "amount": 50.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "نخود",
+        "amount": 50.0,
+        "unit": "گرم"
       },
       {
         "name": "زردچوبه",
@@ -972,13 +1105,18 @@
         "unit": "ق غ"
       },
       {
-        "name": "پیا متوسط",
+        "name": "یا متوسط",
         "amount": 2.0,
         "unit": "عدد"
       },
       {
-        "name": "نمک و فلفل سیاه",
-        "amount": "به میزان لازم",
+        "name": "نمک",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "فلفل سیاه",
+        "amount": null,
         "unit": null
       },
       {
@@ -987,9 +1125,9 @@
         "unit": "ق غ"
       },
       {
-        "name": "کشک مایع حدودا 200 گرم",
-        "amount": null,
-        "unit": null
+        "name": "کشک مایع حدودا",
+        "amount": 200.0,
+        "unit": "گرم"
       },
       {
         "name": "سیر",
@@ -1028,7 +1166,11 @@
   },
   {
     "title": "آش ترخینه دوغ یا کشکینه لرستان",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "ترخینه",
@@ -1052,7 +1194,7 @@
       },
       {
         "name": "نمک، فلفل، زرچوبه",
-        "amount": "به میزان لازم",
+        "amount": null,
         "unit": null
       },
       {
@@ -1084,7 +1226,11 @@
   },
   {
     "title": "آش بادمجان",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "گندم پوست کنده",
@@ -1092,9 +1238,9 @@
         "unit": "ق غ"
       },
       {
-        "name": "برنج 0",
+        "name": "برنج ",
         "amount": 3.0,
-        "unit": "ق غ"
+        "unit":"پیمانه"
       },
       {
         "name": "ماش",
@@ -1107,7 +1253,7 @@
         "unit": "عدد"
       },
       {
-        "name": "پیاز",
+        "name": "یاز",
         "amount": 1.0,
         "unit": "عدد"
       },
@@ -1117,9 +1263,14 @@
         "unit": "حبه"
       },
       {
-        "name": "ادویه مخلوط و دلخواه",
-        "amount": 1.0,
-        "unit": "ق غ"
+        "name": "ادویه مخلوط",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "دلخواه",
+        "amount": null,
+        "unit": null
       },
       {
         "name": "کشک",
@@ -1149,7 +1300,11 @@
   },
   {
     "title": "آش شله - آش محلی خرم آباد",
-    "locations": [],
+    "location": {
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
     "ingredients": [
       {
         "name": "ماش",
@@ -1167,7 +1322,7 @@
         "unit": "عدد"
       },
       {
-        "name": "زردچوبه. فلفل سیاه. نمک",
+        "name": "زردچوبه فلفل سیاه نمک",
         "amount": null,
         "unit": null
       }

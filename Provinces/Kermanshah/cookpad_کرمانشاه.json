@@ -194,7 +194,7 @@
         "unit": null
       },
       {
-        "name": "دوغ تُرش به میران‌لازم",
+        "name": "دوغ تُرش",
         "amount": null,
         "unit": null
       }
@@ -335,7 +335,17 @@
         "unit": "حبه"
       },
       {
-        "name": "نمک، فلفل سیاه، زردچوبه",
+        "name": "نمک",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "فلفل سیاه",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "زردچوبه",
         "amount": null,
         "unit": null
       },
@@ -376,13 +386,13 @@
     "ingredients": [
       {
         "name": "بسته سبزی سورانه",
-        "amount": 1.0,
+        "amount": null,
         "unit": null
       },
       {
-        "name": "برنج به دلخواه",
-        "amount": 3.0,
-        "unit": "ق غ"
+        "name": "برنج",
+        "amount": null,
+        "unit": null
       },
       {
         "name": "پیاز متوسط",
@@ -390,7 +400,17 @@
         "unit": "عدد"
       },
       {
-        "name": "نمک، فلفل سیاه، زردچوبه بمقدارلازم",
+        "name": "نمک",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "فلفل سیاه",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "زردچوبه",
         "amount": null,
         "unit": null
       },
@@ -475,12 +495,32 @@
         "unit": "حبه"
       },
       {
-        "name": "نمک ، فلفل سیاه و قرمز، زردچوبه",
+        "name": "نمک",
         "amount": null,
         "unit": null
       },
       {
-        "name": "نعناع داغ، سیر داغ، پیاز داغ",
+        "name": "فلفل سیاه و قرمز",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "زردچوبه",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "نعناع داغ",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "سیر داغ",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "پیاز داغ",
         "amount": null,
         "unit": null
       }
@@ -538,7 +578,12 @@
         "unit": null
       },
       {
-        "name": "نمک،فلفل",
+        "name": "نمک",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "فلفل",
         "amount": null,
         "unit": null
       },
@@ -611,9 +656,9 @@
         "unit": "ق غ"
       },
       {
-        "name": "تکه چوب دارچین",
+        "name": "چوب دارچین",
         "amount": 1.0,
-        "unit": null
+        "unit": "تکه"
       },
       {
         "name": "نمک و زردچوبه",
@@ -666,7 +711,7 @@
         "unit": "کیلو"
       },
       {
-        "name": "قاشذا خوری رب گوجه فرنگی",
+        "name": "خوری رب گوجه فرنگی",
         "amount": 4.0,
         "unit": "قاشق غذاخوری"
       },
@@ -676,9 +721,9 @@
         "unit": "پنس"
       },
       {
-        "name": "مشت پر برگه ی آلو خشک",
+        "name": "پر برگه ی آلو خشک",
         "amount": 1.0,
-        "unit": null
+        "unit": "مشت"
       },
       {
         "name": "سیب زمینی",
@@ -743,7 +788,17 @@
         "unit": "عدد"
       },
       {
-        "name": "زردچوبه ،نمک ،فلفل",
+        "name": "زردچوبه",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "نمک",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "فلفل",
         "amount": null,
         "unit": null
       },
@@ -768,12 +823,12 @@
         "unit": "گرم"
       },
       {
-        "name": "قاشوپ خوری پیاز داغ",
+        "name": "خوری پیاز داغ",
         "amount": 2.0,
         "unit": "قاشق سوپخوری"
       },
       {
-        "name": "قاشوپ خوری رب گوجه",
+        "name": "خوری رب گوجه",
         "amount": 2.0,
         "unit": "قاشق سوپخوری"
       },
@@ -826,9 +881,9 @@
         "unit": "گرم"
       },
       {
-        "name": "سانتیمترعرض حداقل 10 سانتیمتر دنده",
+        "name": "عرض حداقل 10  دنده",
         "amount": 20.0,
-        "unit": null
+        "unit": "سانتیمتر"
       },
       {
         "name": "فلفل سیاه ونمک و فلفل قرمز",
@@ -906,7 +961,12 @@
         "unit": null
       },
       {
-        "name": "نمک،فلفل و زردچوبه",
+        "name": "نمک",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "فلفل و زردچوبه",
         "amount": null,
         "unit": null
       },
@@ -1003,7 +1063,7 @@
       },
       {
         "name": "بسته گوشت چرخی",
-        "amount": 1.0,
+        "amount": null,
         "unit": null
       },
       {
@@ -1012,7 +1072,17 @@
         "unit": "عدد"
       },
       {
-        "name": "آرد، نمک، زردچوبه و سبزی کوفتهسبزی معطر",
+        "name": "آرد",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "نمک",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "زردچوبه و سبزی کوفتهسبزی معطر",
         "amount": null,
         "unit": null
       },
@@ -1023,12 +1093,12 @@
       },
       {
         "name": "پیاز بزرگ",
-        "amount": 1.0,
+        "amount": null,
         "unit": null
       },
       {
         "name": "پیاز بزرگ",
-        "amount": 1.0,
+        "amount": null,
         "unit": null
       },
       {
@@ -1109,7 +1179,7 @@
       },
       {
         "name": "دسته کوچک پیازچه",
-        "amount": 1.0,
+        "amount": null,
         "unit": null
       },
       {
@@ -1388,7 +1458,7 @@
     ],
     "ingredients": [
       {
-        "name": "فیله مرغ یا 1 عدد سینه کامل",
+        "name": "فیله مرغ یا 1  سینه کامل",
         "amount": 8.0,
         "unit": "عدد"
       },
@@ -1537,7 +1607,7 @@
         "unit": null
       },
       {
-        "name": "زنجبیل به دلخواه",
+        "name": "زنجبیل",
         "amount": null,
         "unit": null
       }
@@ -1586,7 +1656,7 @@
         "unit": "گرم"
       },
       {
-        "name": "گردو و کنجد از هر کدام به دلخواه",
+        "name": "گردو و کنجد از هر کدام",
         "amount": null,
         "unit": null
       }
@@ -1643,7 +1713,17 @@
         "unit": "قاشق سوپخوری"
       },
       {
-        "name": "نمک ،فلفل، زردچوبه و روغن بمیزان لازم",
+        "name": "نمک",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "فلفل",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "زردچوبه و روغن بمیزان لازم",
         "amount": null,
         "unit": null
       },
@@ -1914,7 +1994,7 @@
         "unit": null
       },
       {
-        "name": "- 4 قاشذاخوری سر پر آرد",
+        "name": "- 4 خوری سر پر آرد",
         "amount": 3.0,
         "unit": "قاشق غذاخوری"
       },
@@ -1985,12 +2065,22 @@
         "unit": "قاشق غذاخوری"
       },
       {
-        "name": "قاشذا خوری شکر",
+        "name": "خوری شکر",
         "amount": 3.0,
         "unit": "قاشق غذاخوری"
       },
       {
-        "name": "نمک، فلفل، زردچوبه",
+        "name": "نمک",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "فلفل",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "زردچوبه",
         "amount": null,
         "unit": null
       },
@@ -2118,7 +2208,7 @@
         "unit": null
       },
       {
-        "name": "گردو برای تزیین به دلخواه",
+        "name": "گردو برای تزیین",
         "amount": null,
         "unit": null
       },

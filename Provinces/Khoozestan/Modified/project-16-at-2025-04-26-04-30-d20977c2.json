@@ -627,12 +627,12 @@
       },
       {
         "name": "نان سنگگ",
-        "amount": null,
+        "amount": 3.0,
         "unit": "عدد"
       },
       {
-        "name": "- عدد تخم مرغ",
-        "amount": null,
+        "name": "تخم مرغ",
+        "amount": 2.0
         "unit": "عدد"
       },
       {
@@ -658,7 +658,7 @@
     ],
     "instructions": [
       "ابتدا باقالی را با پوست میگذاریم بپزد، \r\n(اگر داخل زودپز بگذارید،زودتر می پزد و گرنه در حالت معمولی ۳ الی ۴ ساعت برای پخت،زمان میبرد)\r\nبعد از پخت باقالی، آب باقالی نباید خشک شود و تمام شود بلکه حدود دو پیمانه آب، بعد از پخت باقالی باید باقی بماند.",
-      "بعد از پخت باقالی نعنا خشک و کمی نمک داخل قابلمه ریخته و بگذارید کمی بجوشد و حرارت را خاموش کرده و باقالی ها را از آبش خارج کرده و پوست میگیریم و کنار میگذاریم.",
+      "بعد از پخت باقای نعنا خشک و کمی نمک داخل قابلمه ریخته و بگذارید کمی بجوشد و حرارت را خاموش کرده و باقالی ها را از آبش خارج کرده و پوست میگیریم و کنار میگذاریم.",
       "نان ها را از قبل تکه تکه کرده و داخل آب باقالی می ریزیم. و یا یکی یکی داخل آب باقالی می زنیم و وقتی آب باقالی به نان نفوذ کرد،نان را خارج کرده و به ترتیب نان ها را با آب باقالی خیس می کنیم. و در ظرف سرو میریزیم.",
       "باقالی های پوست گرفته را در ظرف سرو ،روی نان ها می ریزیم.",
       "روغن یا کره را داغ کرده و روی نان و باقالی می ریزیم.",
@@ -667,7 +667,7 @@
       "این غذا یک نوع غذای عربی است که بسیاااار خوشمزهههههه است به طوری که نمیتوانید از خوردنش دست بکشید."
     ],
     "meal_type": [
-      "-"
+      "غذای اصلی گیاهی"
     ],
     "occasion": "شام",
     "images": {
@@ -676,8 +676,7 @@
       "step2": null
     },
     "id": 9,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 78,
     "created_at": "2025-04-26T00:24:00.828801Z",
@@ -716,7 +715,7 @@
         "unit": "ق چ"
       },
       {
-        "name": "سیب زمینی من نریختم",
+        "name": "سیب زمینی ",
         "amount": 2.0,
         "unit": "عدد"
       },
@@ -747,8 +746,7 @@
       "step2": null
     },
     "id": 10,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 79,
     "created_at": "2025-04-26T00:24:36.877941Z",
@@ -779,7 +777,7 @@
       "نوووش جان🥰"
     ],
     "meal_type": [
-      "-"
+      "غذای اصلی دریایی"
     ],
     "occasion": "شام",
     "images": {
@@ -788,8 +786,7 @@
       "step2": null
     },
     "id": 11,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 80,
     "created_at": "2025-04-26T00:24:52.366045Z",
@@ -797,7 +794,7 @@
     "lead_time": 13.96
   },
   {
-    "title": "طرز تهیه مرصع پلو خوشمزه و مجلسی به روش رستورانی",
+    "title": "مرصع پلو",
     "locations": [
       {
         "province": "خوزستان",
@@ -806,8 +803,35 @@
         "longitude": 48.6706
       }
     ],
-    "ingredients": [],
-    "instructions": [],
+    "ingredients": [
+      {"name": "برنج", "amount": "4", "unit": "پیمانه"},
+      {"name": "سینه مرغ", "amount": "400", "unit": "گرم"},
+      {"name": "کشمش", "amount": "نصف", "unit": "پیمانه"},
+      {"name": "زرشک", "amount": "نصف", "unit": "پیمانه"},
+      {"name": "پیاز", "amount": "3", "unit": "عدد بزرگ"},
+      {"name": "خلال بادام", "amount": "یک چهارم", "unit": "پیمانه"},
+      {"name": "خلال پسته", "amount": "یک چهارم", "unit": "پیمانه"},
+      {"name": "خلال پوست پرتقال", "amount": "یک چهارم", "unit": "پیمانه"},
+      {"name": "زعفران دم کرده", "amount": "2", "unit": "قاشق غذاخوری"},
+      {"name": "دارچین", "amount": "نصف", "unit": "قاشق چایخوری"},
+      {"name": "آب لیمو ترش", "amount": "2", "unit": "قاشق غذاخوری"},
+      {"name": "نمک", "amount": "به مقدار کافی", "unit": null},
+      {"name": "فلفل سیاه", "amount": "به مقدار کافی", "unit": null},
+      {"name": "زردچوبه", "amount": "به مقدار کافی", "unit": null},
+      {"name": "روغن", "amount": "به مقدار کافی", "unit": null},
+      {"name": "شکر", "amount": "1", "unit": "قاشق غذاخوری"},
+      {"name": "گلاب", "amount": "مقداری", "unit": null}
+    ],
+    "instructions": [
+      "پوست پرتقال را جدا کرده، ۱ ساعت در آب خیس کنید، سپس چند بار بجوشانید تا تلخی آن برود. در نهایت با کمی روغن و شکر تفت دهید.",
+      "سینه مرغ را مکعبی خرد کنید، با پیاز حلقه شده، آبلیمو و نمک مخلوط کرده و در یخچال بگذارید تا مزه‌دار شود.",
+      "برنج را شسته و خیس کنید. پیازهای دیگر را خلالی خرد کرده، در روغن تفت دهید و مرغ مزه‌دار شده را با آن تفت دهید. زردچوبه، فلفل، زعفران، نمک، آبلیمو و دارچین اضافه کنید و بگذارید مرغ با آب پیاز بپزد.",
+      "آب را به جوش آورده، برنج را آبکشی کنید و دم بگذارید.",
+      "زرشک، کشمش، خلال بادام را جداگانه خیس کرده و سپس آبکش کنید.",
+      "خلال بادام، زرشک و کشمش را جداگانه با کمی روغن و شکر تفت دهید.",
+      "برنج را با مرغ و مواد تزئینی در دیس بچینید. کمی از برنج را زعفرانی کرده و روی غذا بدهید. خلال پسته و پوست پرتقال را روی برنج بریزید.",
+      "مرصع پلو آماده سرو است."
+    ],
     "meal_type": [
       "غذای اصلی برنجی"
     ],
@@ -815,7 +839,7 @@
     "images": {
       "main": {
         "@type": "ImageObject",
-        "url": "https:\/\/chishi.ir\/wp-content\/uploads\/2020\/05\/morasa-polo.jpg",
+        "url": "https://chishi.ir/wp-content/uploads/2020/05/morasa-polo.jpg",
         "width": 600,
         "height": 375
       },
@@ -823,8 +847,7 @@
       "step2": null
     },
     "id": 12,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 81,
     "created_at": "2025-04-26T00:25:10.780142Z",
@@ -858,7 +881,7 @@
         "unit": "استکان"
       },
       {
-        "name": "نمک وفلفل",
+        "name": "نمک و فلفل",
         "amount": null,
         "unit": null
       },
@@ -868,9 +891,9 @@
         "unit": null
       },
       {
-        "name": "قاشق روغن",
-        "amount": null,
-        "unit": null
+        "name": "روغن",
+        "amount": 1.0,
+        "unit": "قاشق غذا خوری"
       }
     ],
     "instructions": [
@@ -887,7 +910,6 @@
     },
     "id": 13,
     "answer2": "Good",
-    "answer": "Good",
     "annotator": 1,
     "annotation_id": 82,
     "created_at": "2025-04-26T00:26:19.388225Z",
@@ -911,7 +933,7 @@
         "unit": "گرم"
       },
       {
-        "name": "نخود لپه من کمتر گذاشتم",
+        "name": "نخود",
         "amount": 1.0,
         "unit": "پیمانه"
       },
@@ -941,8 +963,8 @@
         "unit": null
       },
       {
-        "name": "چند تا خلال بادام برای تزیین دلخواه",
-        "amount": null,
+        "name": "خلال بادام",
+        "amount": "به مقدار کافی",
         "unit": null
       }
     ],
@@ -957,15 +979,14 @@
     "meal_type": [
       "نان و شیرینی"
     ],
-    "occasion": "شام",
+    "occasion": "عصرانه",
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/6e97973fd2945c1d\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
     },
     "id": 14,
-    "answer2": "Bad",
-    "answer": "Bad",
+    "answer2": "Good",
     "annotator": 1,
     "annotation_id": 83,
     "created_at": "2025-04-26T00:28:01.779530Z",
@@ -1009,12 +1030,12 @@
         "unit": null
       },
       {
-        "name": "خ زعفران دم کرده",
+        "name": "زعفران دم کرده",
         "amount": 3.0,
         "unit": "ق غ"
       },
       {
-        "name": "خ خمیر مایه",
+        "name": "خمیر مایه",
         "amount": 1.0,
         "unit": "ق غ"
       },
@@ -1024,7 +1045,7 @@
         "unit": "پیمانه"
       },
       {
-        "name": "خ بکینگ",
+        "name": "بکینگ پودر",
         "amount": 2.0,
         "unit": "ق غ"
       }
@@ -1036,15 +1057,14 @@
     "meal_type": [
       "دسر"
     ],
-    "occasion": "شام",
+    "occasion": "عصرانه",
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/e9d050beab281ddd\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
     },
     "id": 15,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 84,
     "created_at": "2025-04-26T00:29:23.587999Z",
@@ -1078,17 +1098,17 @@
         "unit": "پیمانه"
       },
       {
-        "name": "خ پودردارچین",
+        "name": "پودر دارچین",
         "amount": 1.0,
         "unit": "ق غ"
       },
       {
-        "name": "ق فلفل سیاه یازنجبیل پودر",
-        "amount": null,
-        "unit": null
+        "name": "فلفل سیاه یازنجبیل پودر",
+        "amount": 1.0,
+        "unit": "ق غ"
       },
       {
-        "name": "خ پودررازیانه",
+        "name": "پودررازیانه",
         "amount": 1.0,
         "unit": "ق غ"
       },
@@ -1106,15 +1126,14 @@
     "meal_type": [
       "دسر"
     ],
-    "occasion": "شام",
+    "occasion": "عصرانه",
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/5b5ac177c575be7f\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
     },
     "id": 16,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 85,
     "created_at": "2025-04-26T00:30:33.099826Z",
@@ -1134,8 +1153,8 @@
     "ingredients": [
       {
         "name": "گوشت گوسفندی",
-        "amount": null,
-        "unit": null
+        "amount": 500.0,
+        "unit": "گرم"
       },
       {
         "name": "لپه",
@@ -1153,8 +1172,8 @@
         "unit": "عدد"
       },
       {
-        "name": "چند حبه سیر",
-        "amount": null,
+        "name": "سیر",
+        "amount": 4.0,
         "unit": "حبه"
       },
       {
@@ -1169,8 +1188,8 @@
       },
       {
         "name": "برنج",
-        "amount": null,
-        "unit": null
+        "amount": 2.0,
+        "unit": "پیمانه"
       },
       {
         "name": "لیمو",
@@ -1194,8 +1213,7 @@
       "step2": null
     },
     "id": 17,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 86,
     "created_at": "2025-04-26T00:31:18.610994Z",
@@ -1249,7 +1267,7 @@
         "unit": "ق م"
       },
       {
-        "name": "",
+        "name": "زردچوبه",
         "amount": 1.0,
         "unit": "ق م"
       },
@@ -1281,15 +1299,14 @@
     "meal_type": [
       "دسر"
     ],
-    "occasion": "شام",
+    "occasion": "عصرانه",
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/0a529dc6d92acfe3\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
     },
     "id": 18,
-    "answer2": "Bad",
-    "answer": "Bad",
+    "answer2": "Good",
     "annotator": 1,
     "annotation_id": 87,
     "created_at": "2025-04-26T00:31:43.413418Z",
@@ -1333,7 +1350,7 @@
         "unit": "عدد"
       },
       {
-        "name": "ماهی قباد متوسط",
+        "name": "ماهی متوسط",
         "amount": 1.0,
         "unit": "عدد"
       },
@@ -1366,7 +1383,6 @@
     },
     "id": 19,
     "answer": "Good",
-    "answer2": "Good",
     "annotator": 1,
     "annotation_id": 88,
     "created_at": "2025-04-26T00:33:19.416460Z",
@@ -1390,8 +1406,8 @@
         "unit": null
       },
       {
-        "name": "برنج به مقدار وتعداد",
-        "amount": null,
+        "name": "برنج",
+        "amount": "به مقدار کافی",
         "unit": null
       },
       {
@@ -1426,8 +1442,7 @@
       "step2": null
     },
     "id": 20,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 89,
     "created_at": "2025-04-26T00:35:36.980060Z",
@@ -1451,12 +1466,12 @@
         "unit": "لیوان"
       },
       {
-        "name": "خ نشاسته",
+        "name": "نشاسته",
         "amount": 2.0,
         "unit": "قاشق غ"
       },
       {
-        "name": "خ کاستر",
+        "name": "کاستر",
         "amount": 2.0,
         "unit": "قاشق غ"
       },
@@ -1471,19 +1486,14 @@
         "unit": null
       },
       {
-        "name": "خ خمیرمایه",
+        "name": "خمیرمایه",
         "amount": 1.0,
         "unit": "قاشق غ"
       },
       {
-        "name": "قاشق م خ",
-        "amount": null,
-        "unit": null
-      },
-      {
         "name": "ماست",
-        "amount": null,
-        "unit": null
+        "amount": 5.0,
+        "unit": "قاشق غذا خوری"
       }
     ],
     "instructions": [
@@ -1501,8 +1511,7 @@
       "step2": null
     },
     "id": 21,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 90,
     "created_at": "2025-04-26T00:35:53.977115Z",
@@ -1536,8 +1545,8 @@
         "unit": "گرم"
       },
       {
-        "name": "روغن و مقدار دنبه گوسفندی",
-        "amount": null,
+        "name": "روغن و دنبه گوسفندی",
+        "amount": "به مقدار کافی",
         "unit": null
       },
       {
@@ -1566,9 +1575,9 @@
         "unit": "عدد"
       },
       {
-        "name": "و",
-        "amount": null,
-        "unit": null
+        "name": "لوبیا چیتی",
+        "amount": 0.5,
+        "unit": "کیلو"
       }
     ],
     "instructions": [
@@ -1585,8 +1594,7 @@
       "step2": null
     },
     "id": 22,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 91,
     "created_at": "2025-04-26T00:36:19.944207Z",

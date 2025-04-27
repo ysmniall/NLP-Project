@@ -617,7 +617,7 @@
     "ingredients": [
       {
         "name": " پیمانه باقالی با پوست",
-        "amount": null,
+        "amount": 2.0,
         "unit": "پیمانه"
       },
       {
@@ -626,7 +626,7 @@
         "unit": null
       },
       {
-        "name": "- عدد نان (سنگک",
+        "name": "نان سنگگ",
         "amount": null,
         "unit": "عدد"
       },

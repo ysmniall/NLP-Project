@@ -695,7 +695,7 @@
     ],
     "ingredients": [
       {
-        "name": "گرم میگو",
+        "name": "میگو",
         "amount": 1.0,
         "unit": "کیلو"
       },
@@ -746,8 +746,7 @@
       "step2": null
     },
     "id": 10,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 79,
     "created_at": "2025-04-26T00:24:36.877941Z",
@@ -778,7 +777,7 @@
       "نوووش جان🥰"
     ],
     "meal_type": [
-      "-"
+      "غذای اصلی دریایی"
     ],
     "occasion": "شام",
     "images": {
@@ -787,8 +786,7 @@
       "step2": null
     },
     "id": 11,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 80,
     "created_at": "2025-04-26T00:24:52.366045Z",
@@ -796,7 +794,7 @@
     "lead_time": 13.96
   },
   {
-    "title": "طرز تهیه مرصع پلو خوشمزه و مجلسی به روش رستورانی",
+    "title": "مرصع پلو",
     "locations": [
       {
         "province": "خوزستان",
@@ -805,31 +803,52 @@
         "longitude": 48.6706
       }
     ],
-    "ingredients": [],
-    "instructions": [],
+    "ingredients": [
+      {"name": "برنج", "amount": "4", "unit": "پیمانه"},
+      {"name": "سینه مرغ", "amount": "400", "unit": "گرم"},
+      {"name": "کشمش", "amount": "نصف", "unit": "پیمانه"},
+      {"name": "زرشک", "amount": "نصف", "unit": "پیمانه"},
+      {"name": "پیاز", "amount": "3", "unit": "عدد بزرگ"},
+      {"name": "خلال بادام", "amount": "یک چهارم", "unit": "پیمانه"},
+      {"name": "خلال پسته", "amount": "یک چهارم", "unit": "پیمانه"},
+      {"name": "خلال پوست پرتقال", "amount": "یک چهارم", "unit": "پیمانه"},
+      {"name": "زعفران دم کرده", "amount": "2", "unit": "قاشق غذاخوری"},
+      {"name": "دارچین", "amount": "نصف", "unit": "قاشق چایخوری"},
+      {"name": "آب لیمو ترش", "amount": "2", "unit": "قاشق غذاخوری"},
+      {"name": "نمک", "amount": "به مقدار کافی", "unit": null},
+      {"name": "فلفل سیاه", "amount": "به مقدار کافی", "unit": null},
+      {"name": "زردچوبه", "amount": "به مقدار کافی", "unit": null},
+      {"name": "روغن", "amount": "به مقدار کافی", "unit": null},
+      {"name": "شکر", "amount": "1", "unit": "قاشق غذاخوری"},
+      {"name": "گلاب", "amount": "مقداری", "unit": null}
+    ],
+    "instructions": [
+      "پوست پرتقال را جدا کرده، ۱ ساعت در آب خیس کنید، سپس چند بار بجوشانید تا تلخی آن برود. در نهایت با کمی روغن و شکر تفت دهید.",
+      "سینه مرغ را مکعبی خرد کنید، با پیاز حلقه شده، آبلیمو و نمک مخلوط کرده و در یخچال بگذارید تا مزه‌دار شود.",
+      "برنج را شسته و خیس کنید. پیازهای دیگر را خلالی خرد کرده، در روغن تفت دهید و مرغ مزه‌دار شده را با آن تفت دهید. زردچوبه، فلفل، زعفران، نمک، آبلیمو و دارچین اضافه کنید و بگذارید مرغ با آب پیاز بپزد.",
+      "آب را به جوش آورده، برنج را آبکشی کنید و دم بگذارید.",
+      "زرشک، کشمش، خلال بادام را جداگانه خیس کرده و سپس آبکش کنید.",
+      "خلال بادام، زرشک و کشمش را جداگانه با کمی روغن و شکر تفت دهید.",
+      "برنج را با مرغ و مواد تزئینی در دیس بچینید. کمی از برنج را زعفرانی کرده و روی غذا بدهید. خلال پسته و پوست پرتقال را روی برنج بریزید.",
+      "مرصع پلو آماده سرو است."
+    ],
     "meal_type": [
       "غذای اصلی برنجی"
     ],
     "occasion": "ناهار",
     "images": {
-      "main": {
-        "@type": "ImageObject",
-        "url": "https:\/\/chishi.ir\/wp-content\/uploads\/2020\/05\/morasa-polo.jpg",
-        "width": 600,
-        "height": 375
-      },
+      "main": "https://chishi.ir/wp-content/uploads/2020/05/morasa-polo.jpg",
       "step1": null,
       "step2": null
     },
     "id": 12,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 81,
     "created_at": "2025-04-26T00:25:10.780142Z",
     "updated_at": "2025-04-26T00:25:10.780142Z",
     "lead_time": 17.147
-  },
+  },  
   {
     "title": "اشکنه دزفولی",
     "locations": [
@@ -867,9 +886,9 @@
         "unit": null
       },
       {
-        "name": "قاشق روغن",
-        "amount": null,
-        "unit": null
+        "name": "روغن",
+        "amount": 1.0,
+        "unit": "قاشق غذا خوری"
       }
     ],
     "instructions": [
@@ -886,7 +905,6 @@
     },
     "id": 13,
     "answer2": "Good",
-    "answer": "Good",
     "annotator": 1,
     "annotation_id": 82,
     "created_at": "2025-04-26T00:26:19.388225Z",
@@ -925,7 +943,7 @@
         "unit": "قاشق غذا خوری"
       },
       {
-        "name": "کشمش یا کمتر",
+        "name": "کشمش",
         "amount": 1.0,
         "unit": "پیمانه"
       },
@@ -940,8 +958,8 @@
         "unit": null
       },
       {
-        "name": "چند تا خلال بادام برای تزیین دلخواه",
-        "amount": null,
+        "name": "خلال بادام",
+        "amount": "به مقدار کافی",
         "unit": null
       }
     ],
@@ -956,15 +974,14 @@
     "meal_type": [
       "نان و شیرینی"
     ],
-    "occasion": "شام",
+    "occasion": "عصرانه",
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/6e97973fd2945c1d\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
     },
     "id": 14,
-    "answer2": "Bad",
-    "answer": "Bad",
+    "answer2": "Good",
     "annotator": 1,
     "annotation_id": 83,
     "created_at": "2025-04-26T00:28:01.779530Z",
@@ -1008,12 +1025,12 @@
         "unit": null
       },
       {
-        "name": "خ زعفران دم کرده",
+        "name": "زعفران دم کرده",
         "amount": 3.0,
         "unit": "ق غ"
       },
       {
-        "name": "خ خمیر مایه",
+        "name": "خمیر مایه",
         "amount": 1.0,
         "unit": "ق غ"
       },
@@ -1023,7 +1040,7 @@
         "unit": "پیمانه"
       },
       {
-        "name": "خ بکینگ",
+        "name": "بکینگ پودر",
         "amount": 2.0,
         "unit": "ق غ"
       }
@@ -1035,15 +1052,14 @@
     "meal_type": [
       "دسر"
     ],
-    "occasion": "شام",
+    "occasion": "عصرانه",
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/e9d050beab281ddd\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
     },
     "id": 15,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 84,
     "created_at": "2025-04-26T00:29:23.587999Z",
@@ -1077,7 +1093,7 @@
         "unit": "پیمانه"
       },
       {
-        "name": "خ پودردارچین",
+        "name": "پودر دارچین",
         "amount": 1.0,
         "unit": "ق غ"
       },

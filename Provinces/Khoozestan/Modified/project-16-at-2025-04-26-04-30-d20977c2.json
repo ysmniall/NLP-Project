@@ -570,9 +570,9 @@
         "unit": null
       },
       {
-        "name": "آب گرم",
+        "name": "آب",
         "amount": null,
-        "unit": "گرم"
+        "unit": null
       },
       {
         "name": "روغن براي سرخ كردن",
@@ -588,7 +588,7 @@
       "اطراف آن ترد است و وسط آن نرم"
     ],
     "meal_type": [
-      "-"
+      "غذای اصلی گیاهی"
     ],
     "occasion": "شام",
     "images": {
@@ -597,8 +597,7 @@
       "step2": null
     },
     "id": 8,
-    "answer2": "Bad",
-    "answer": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 77,
     "created_at": "2025-04-26T00:23:47.182491Z",
@@ -617,13 +616,13 @@
     ],
     "ingredients": [
       {
-        "name": "- پیمانه باقالی با پوست",
+        "name": " پیمانه باقالی با پوست",
         "amount": null,
         "unit": "پیمانه"
       },
       {
-        "name": "آب به مقدار پخت باقالی",
-        "amount": null,
+        "name": "آب",
+        "amount": "به میزان کافی",
         "unit": null
       },
       {

@@ -1,11 +1,7 @@
 [
   {
     "title": "زرشک پلو به سبک لرستان",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "تکه مرغ بزرگ",
@@ -81,11 +77,7 @@
   },
   {
     "title": "آش رشته لرستان",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "نخود",
@@ -170,11 +162,7 @@
   },
   {
     "title": "کباب کوبیده لرستان",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "گوشت گوسفندی بادنبه",
@@ -224,11 +212,7 @@
   },
   {
     "title": "کشکینه محلی لرستان",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "ترخینه",
@@ -311,11 +295,7 @@
   },
   {
     "title": "جوجوش.حلوای سنتی لرستان",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "گندم خرد شده یا همان قاووت",
@@ -364,11 +344,7 @@
   },
   {
     "title": "کباب شامی لرستان",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "گوشت چرخ کرده",
@@ -463,11 +439,7 @@
   },
   {
     "title": "زیربرنجی لرستان😍",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "گوشت گوسفندی",
@@ -518,11 +490,7 @@
   },
   {
     "title": "نان محلی لرستان",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد گندم",
@@ -574,11 +542,7 @@
   },
   {
     "title": "حلیم گندم لرستان",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "گندم با پوستش",
@@ -640,11 +604,7 @@
   },
   {
     "title": "شب یلدا (شو چله) لرستان",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "گندم",
@@ -712,11 +672,7 @@
   },
   {
     "title": "گَنِم شادونَه لرستان مخصوصِ شُو چِلَه😄❤❤❤(گندم شاهدونه مخصوص یلدا)",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "گندم شیر",
@@ -777,11 +733,7 @@
   },
   {
     "title": "چزنک رغو(میان وعده محلی استان لرستان)",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد",
@@ -825,11 +777,7 @@
   },
   {
     "title": "ماست کِز زده (دودی) لرستان😋👌",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "شیر محلی پر چرب",
@@ -859,11 +807,7 @@
   },
   {
     "title": "نان کلوا لرستان",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "خمیر",
@@ -957,11 +901,7 @@
   },
   {
     "title": "نان چزنک رغو لرستان(شلکینه)",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد",
@@ -1020,11 +960,7 @@
   },
   {
     "title": "نان کلوای لرستان",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "آرد",
@@ -1078,11 +1014,7 @@
   },
   {
     "title": "آبگوشت کشک (آبگوشت دودار)",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "گوشت چرب با دنبه",
@@ -1166,11 +1098,7 @@
   },
   {
     "title": "آش ترخینه دوغ یا کشکینه لرستان",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "ترخینه",
@@ -1226,11 +1154,7 @@
   },
   {
     "title": "آش بادمجان",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "گندم پوست کنده",
@@ -1240,7 +1164,7 @@
       {
         "name": "برنج ",
         "amount": 3.0,
-        "unit":"پیمانه"
+        "unit": "پیمانه"
       },
       {
         "name": "ماش",
@@ -1300,11 +1224,7 @@
   },
   {
     "title": "آش شله - آش محلی خرم آباد",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
-    },
+    "locations": [],
     "ingredients": [
       {
         "name": "ماش",

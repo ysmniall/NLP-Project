@@ -106,8 +106,8 @@
     ],
     "ingredients": [
       {
-        "name": "گوشت به تعداد نفرات..",
-        "amount": null,
+        "name": "گوشت",
+        "amount": "به میزان کافی",
         "unit": null
       },
       {
@@ -121,9 +121,9 @@
         "unit": "لیوان"
       },
       {
-        "name": "قاشق سرپر رب گوجه",
-        "amount": null,
-        "unit": null
+        "name": "رب گوجه",
+        "amount": 1.0,
+        "unit": "قاشق غذاخوری"
       },
       {
         "name": "پیاز متوسط",
@@ -141,8 +141,8 @@
         "unit": "عدد"
       },
       {
-        "name": "زردچوبه..فلفل...نمک...ادویه خورشتی",
-        "amount": null,
+        "name": "زردچوبه، فلفل، نمک،ادویه خورشتی",
+        "amount": "به مقدار لازم",
         "unit": null
       }
     ],
@@ -164,8 +164,7 @@
       "step2": null
     },
     "id": 2,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 71,
     "created_at": "2025-04-26T00:15:45.660311Z",
@@ -194,8 +193,8 @@
         "unit": "حبه"
       },
       {
-        "name": "پیاز خرد شده و نیمه سرخ هرچی بیشتر بهتر😁",
-        "amount": null,
+        "name": "پیاز خرد شده و نیمه سرخ شده",
+        "amount": "به میزان کافی",
         "unit": null
       },
       {
@@ -209,13 +208,13 @@
         "unit": null
       },
       {
-        "name": "سبزی گشنیز و مقدار شنبلیله",
-        "amount": null,
+        "name": "سبزی گشنیز و شنبلیله",
+        "amount": "به میزان کافی",
         "unit": null
       },
       {
-        "name": "کشمش و گردو در صورت تمایل",
-        "amount": null,
+        "name": "کشمش و گردو   ",
+        "amount": "به میزان کافی",
         "unit": null
       }
     ],
@@ -236,8 +235,7 @@
       "step2": null
     },
     "id": 3,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 72,
     "created_at": "2025-04-26T00:19:21.246059Z",
@@ -271,9 +269,9 @@
         "unit": "حبه"
       },
       {
-        "name": "تا پیاز خرد شده",
-        "amount": null,
-        "unit": null
+        "name": "پیاز خرد شده",
+        "amount": 3.0,
+        "unit": "عدد"
       },
       {
         "name": "نمک، فلفل، زردچوبه",
@@ -299,15 +297,14 @@
     "meal_type": [
       "غذای اصلی برنجی"
     ],
-    "occasion": "صبحانه",
+    "occasion": "ناهار",
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/a9c1ec1aea1935f2\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
     },
     "id": 4,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 73,
     "created_at": "2025-04-26T00:20:10.495576Z",
@@ -341,7 +338,7 @@
         "unit": "پیمانه"
       },
       {
-        "name": "شویدتازه",
+        "name": "شوید تازه",
         "amount": 1.0,
         "unit": "پیمانه"
       },
@@ -375,7 +372,6 @@
     },
     "id": 5,
     "answer": "Good",
-    "answer2": "Good",
     "annotator": 1,
     "annotation_id": 74,
     "created_at": "2025-04-26T00:21:06.184466Z",
@@ -419,9 +415,9 @@
         "unit": "ق غ"
       },
       {
-        "name": "بوته سیر",
-        "amount": null,
-        "unit": null
+        "name": "سیر",
+        "amount": 1.0,
+        "unit": "بوته"
       },
       {
         "name": "فلفل قرمز",
@@ -429,7 +425,7 @@
         "unit": "ق چ"
       },
       {
-        "name": "نمک؛ پودر سیر ؛ پودر آویشن ؛ پودر کاری",
+        "name": "نمک، پودر سیر، پودر آویشن، پودر کاری",
         "amount": null,
         "unit": null
       },
@@ -445,7 +441,7 @@
       "Insta: Ashpazi_saharjbr"
     ],
     "meal_type": [
-      "-"
+      "غذای اصلی گیاهی"
     ],
     "occasion": "شام",
     "images": {
@@ -454,8 +450,7 @@
       "step2": null
     },
     "id": 6,
-    "answer2": "Bad",
-    "answer": "Bad",
+    "answer2": "Good",
     "annotator": 1,
     "annotation_id": 75,
     "created_at": "2025-04-26T00:21:58.153298Z",
@@ -499,7 +494,7 @@
         "unit": "لیوان"
       },
       {
-        "name": "ادویه کاری فلفل وپودر سیر وزرد چوبه ونمک",
+        "name": "ادویه کاری فلفل و پودر سیر وزرد چوبه ونمک",
         "amount": null,
         "unit": null
       }
@@ -512,7 +507,7 @@
       "سمبوسه ها رومثلثی تا میکنیم جایگاه اسنک ساز باقلم مو چرب میکنیم سمبوسه چیده و5 دقیقه زمان میدیم تابرشته بشه"
     ],
     "meal_type": [
-      "-"
+      "غذای اصلی گیاهی"
     ],
     "occasion": "شام",
     "images": {
@@ -521,8 +516,7 @@
       "step2": null
     },
     "id": 7,
-    "answer": "Bad",
-    "answer2": "Bad",
+    "answer": "Good",
     "annotator": 1,
     "annotation_id": 76,
     "created_at": "2025-04-26T00:22:43.391615Z",

@@ -68,9 +68,9 @@
     "meal_type": [
       "غذای اصلی گوشتی"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/3c5ab0cb47f58ddf\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -178,9 +178,9 @@
     "meal_type": [
       "آش و سوپ"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/177005eae109a015\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -248,9 +248,9 @@
     "meal_type": [
       "آش و سوپ"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/82e205397c2b25fb\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -324,9 +324,9 @@
     "meal_type": [
       "غذای اصلی گیاهی"
     ],
-    "occasion": [
+    "occasion": 
       "ناهار"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/cc55e7ff0c3216e5\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -419,9 +419,9 @@
     "meal_type": [
       "غذای اصلی برنجی"
     ],
-    "occasion": [
+    "occasion": 
       "ناهار"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/6a00e4bb8f9c3a30\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -491,9 +491,9 @@
     "meal_type": [
       "غذای اصلی گوشتی"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/7228af754ed085bc\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -578,9 +578,9 @@
     "meal_type": [
       "غذای اصلی گوشتی"
     ],
-    "occasion": [
+    "occasion": 
       "ناهار"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/4f67c7b5ef8b8cc5\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -658,9 +658,9 @@
     "meal_type": [
       "غذای اصلی گوشتی"
     ],
-    "occasion": [
+    "occasion": 
       "ناهار"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/be1af9cb5ae55e7c\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -710,9 +710,9 @@
     "meal_type": [
       "پیش غذا و مکمل"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/4e4eadc12bd25e36\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -790,9 +790,9 @@
     "meal_type": [
       "آش و سوپ"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/4e4e217e8b088105\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -878,9 +878,9 @@
     "meal_type": [
       "آش و سوپ"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/0935baff8f2cb439\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -942,9 +942,9 @@
     "meal_type": [
       "غذای اصلی گیاهی"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/fb9d9dba29d4c46d\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -1033,9 +1033,9 @@
     "meal_type": [
       "نان و شیرینی"
     ],
-    "occasion": [
+    "occasion": 
       "عصرانه"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/7bcb8c25cb75ebe2\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -1138,9 +1138,9 @@
     "meal_type": [
       "آش و سوپ"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/298084c11befdb6a\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -1225,9 +1225,9 @@
     "meal_type": [
       "آش و سوپ"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/01c513348a959c1d\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -1301,9 +1301,9 @@
     "meal_type": [
       "دسر"
     ],
-    "occasion": [
+    "occasion": 
       "عصرانه"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/0f88871c80d07569\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -1363,9 +1363,9 @@
     "meal_type": [
       "غذای اصلی گوشتی"
     ],
-    "occasion": [
+    "occasion": 
       "ناهار"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/cb2c08112cddc8d3\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -1470,9 +1470,9 @@
     "meal_type": [
       "دسر"
     ],
-    "occasion": [
+    "occasion": 
       "عصرانه"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/aa2d1538fabc064f\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -1540,9 +1540,9 @@
     "meal_type": [
       "آش و سوپ"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/8d43d3c44b3ad1dc\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -1658,9 +1658,9 @@
     "meal_type": [
       "دسر"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/c8cb247ee86e4687\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -1713,9 +1713,9 @@
     "meal_type": [
       "غذای اصلی گوشتی"
     ],
-    "occasion": [
+    "occasion": 
       "ناهار"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/39418ac0e158dc4d\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -1784,9 +1784,9 @@
     "meal_type": [
       "آش و سوپ"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/351bc4e55e6692a0\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -1842,9 +1842,9 @@
     "meal_type": [
       "غذای اصلی گوشتی"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/07f1b80bf239b65b\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -1967,9 +1967,9 @@
     "meal_type": [
       "آش و سوپ"
     ],
-    "occasion": [
+    "occasion": 
       "شام"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/2f7707615473def1\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -2187,9 +2187,9 @@
     "meal_type": [
       "غذای اصلی گوشتی"
     ],
-    "occasion": [
+    "occasion": 
       "ناهار"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/8087849e424d82a6\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -2279,9 +2279,9 @@
     "meal_type": [
       "دسر"
     ],
-    "occasion": [
+    "occasion": 
       "عصرانه"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/3557fd7cdb1722e9\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -2335,9 +2335,9 @@
     "meal_type": [
       "دسر"
     ],
-    "occasion": [
+    "occasion": 
       "عصرانه"
-    ],
+    ,
     "images": {
       "main": "https:\/\/img-global.cpcdn.com\/recipes\/eac684bc0057f566\/400x400cq70\/photo.jpg",
       "step1": null,
@@ -2449,9 +2449,9 @@
     "meal_type": [
       "آش و سوپ"
     ],
-    "occasion": [
+    "occasion": 
       "ناهار"
-    ],
+    ,
     "images": {
       "تصویر نهائی": "https:\/\/blog.okcs.com\/wp-content\/uploads\/2024\/11\/1558178715_P6hQ1.jpg"
     },
@@ -2546,9 +2546,9 @@
     "meal_type": [
       "آش و سوپ"
     ],
-    "occasion": [
+    "occasion": 
       "ناهار"
-    ],
+    ,
     "images": {
       "تصویر نهائی": "https:\/\/noktechi.ir\/wp-content\/uploads\/2021\/08\/ash-tarkhine-dough.jpg"
     },
@@ -2616,9 +2616,9 @@
     "meal_type": [
       "آش و سوپ"
     ],
-    "occasion": [
+    "occasion": 
       "ناهار"
-    ],
+    ,
     "images": {
       "تصویر نهائی": "https:\/\/ghandpahlu.com\/wp-content\/uploads\/2020\/02\/d8a2d8b4-d988db8cd8b4db8cd984-d8a7d8b1d8a7daa9_5e4488a3ee62c-e1633378793684.jpeg"
     },

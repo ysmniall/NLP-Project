@@ -2100,9 +2100,9 @@
     "meal_type": [
       "غذای اصلی دریایی"
     ],
-    "occasion": 
+    "occasion": [
       "شام"
-    ,
+    ],
     "images": {
       "تصویر نهائی": "https:\/\/files.namnak.com\/users\/kk\/aup\/201812\/693_pics\/%D9%82%D9%84%DB%8C%D9%87-%D9%85%DB%8C%DA%AF%D9%88-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86.webp"
     },
@@ -2177,9 +2177,9 @@
     "meal_type": [
       "غذای اصلی دریایی"
     ],
-    "occasion": 
+    "occasion": [
       "ناهار"
-    ,
+    ],
     "images": {
       "تصویر نهائی": "https:\/\/tabaye.ir\/wp-content\/uploads\/2020\/06\/tasvirezendegi.ir804.jpg"
     },
@@ -2577,7 +2577,7 @@
     "meal_type": [
       "پیش غذا و مکمل"
     ],
-    "occasion":"عصرانه",
+    "occasion": "مناسب برای کنار غذا",
     "images": {
       "main": null,
       "step1": null,

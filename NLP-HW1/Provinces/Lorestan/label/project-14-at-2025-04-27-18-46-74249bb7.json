@@ -2,6 +2,7 @@
   {
     "title": "زرشک پلو به سبک لرستان",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -74,14 +75,23 @@
     ],
     "occasion": "ناهار",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/eaf1e3c7dc27258f/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/eaf1e3c7dc27258f\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 155,
+    "answer": "Good",
+    "answer2": "Good",
+    "annotator": 1,
+    "annotation_id": 83,
+    "created_at": "2025-04-27T14:55:32.912294Z",
+    "updated_at": "2025-04-27T14:55:32.912294Z",
+    "lead_time": 9.717
   },
   {
     "title": "آش رشته لرستان",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -148,7 +158,7 @@
       "آب روهمراه دوغ وسبزی آش بزایردتاجوش بیاد",
       "حبوبات پخته شده روبهش اضافه کنید",
       "نمک وفلفل سیاه وزردچوبه رو اضافه کنیدوکشک روداخل کمی آب روان کنیدوداخل آش بریزید",
-      "بزاریدتاترکیب موادخوب بپزه و۱/۳آب قابلمه کم بشه وموادبخوبی ترکیب بشن.۱/۳پیازوسیررواضافه کنیدتاآش طعم هاروبخودش بگیره",
+      "بزاریدتاترکیب موادخوب بپزه و۱\/۳آب قابلمه کم بشه وموادبخوبی ترکیب بشن.۱\/۳پیازوسیررواضافه کنیدتاآش طعم هاروبخودش بگیره",
       "رشته های آش رو اضافه کنید.وخوب هم بزنیدودرب قابلمه روبزاریدتاکمی لعاب بندازه",
       "برای اینکه آش زودترلعاب بگیره وابکی نباشه.مقداری آرددرحد۳الی...باتوجه بامقداراشتون داخل آب سردحل کنیدوبه آش اضافه کنیدتاغلیظتربشه",
       "درآخرکمی ازپونه داغی که درست کردیدبه آش اضافه کنید.",
@@ -163,14 +173,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/93b387d8e26a6e38/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/93b387d8e26a6e38\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 156,
+    "answer": "Bad",
+    "answer2": "Bad",
+    "annotator": 1,
+    "annotation_id": 82,
+    "created_at": "2025-04-27T14:55:15.673949Z",
+    "updated_at": "2025-04-27T14:56:26.867999Z",
+    "lead_time": 162.147
   },
   {
     "title": "کباب کوبیده لرستان",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -217,14 +236,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/979cbd2828d41eb2/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/979cbd2828d41eb2\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 157,
+    "answer2": "Good",
+    "answer": "Good",
+    "annotator": 1,
+    "annotation_id": 84,
+    "created_at": "2025-04-27T14:57:11.854282Z",
+    "updated_at": "2025-04-27T14:57:11.854282Z",
+    "lead_time": 17.612
   },
   {
     "title": "کشکینه محلی لرستان",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -304,14 +332,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/5fdf9081eec49957/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/5fdf9081eec49957\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 158,
+    "answer": "Good",
+    "answer2": "Good",
+    "annotator": 1,
+    "annotation_id": 85,
+    "created_at": "2025-04-27T14:57:31.592820Z",
+    "updated_at": "2025-04-27T14:57:31.592820Z",
+    "lead_time": 17.891
   },
   {
     "title": "جوجوش.حلوای سنتی لرستان",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -357,14 +394,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/b8f6e2ed5014d5c4/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/b8f6e2ed5014d5c4\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 159,
+    "answer2": "Bad",
+    "answer": "Bad",
+    "annotator": 1,
+    "annotation_id": 86,
+    "created_at": "2025-04-27T14:57:51.662426Z",
+    "updated_at": "2025-04-27T14:57:51.662426Z",
+    "lead_time": 17.835
   },
   {
     "title": "کباب شامی لرستان",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -456,14 +502,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/59196cb1890a4cd4/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/59196cb1890a4cd4\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 160,
+    "answer": "Bad",
+    "answer2": "Bad",
+    "annotator": 1,
+    "annotation_id": 87,
+    "created_at": "2025-04-27T14:58:14.982408Z",
+    "updated_at": "2025-04-27T14:58:14.982408Z",
+    "lead_time": 21.231
   },
   {
     "title": "زیربرنجی لرستان😍",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -497,7 +552,7 @@
     ],
     "instructions": [
       "ابتداگوشت راسته گوسفندی روبادنبه وپیازدرسته وزردچوبه درکمی روغن تفت بدین خوددنبه روغن داره",
-      "روی گوشت باید آب بگیره اگردرقابلمه درست میکنیدوگرنه درزودپزبرقی ۱/۲گوشت بایدآب بریزید",
+      "روی گوشت باید آب بگیره اگردرقابلمه درست میکنیدوگرنه درزودپزبرقی ۱\/۲گوشت بایدآب بریزید",
       "میره برای پخت بهمین سادگی وخوشمزگی",
       "معمولاباپلوساده وزرشک وزعفران سرومیشه",
       "آب خورش بایدغلیظ بشه وبعددنبه روبکوبیدوداخل آب خورش بریزیدیااگردوست داشتیدبهمراه گوشت سروکنید",
@@ -511,14 +566,23 @@
     ],
     "occasion": "ناهار",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/2f0cb7b671a47348/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/2f0cb7b671a47348\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 161,
+    "answer2": "Bad",
+    "answer": "Bad",
+    "annotator": 1,
+    "annotation_id": 88,
+    "created_at": "2025-04-27T14:59:21.801288Z",
+    "updated_at": "2025-04-27T14:59:21.801288Z",
+    "lead_time": 64.96
   },
   {
     "title": "نان محلی لرستان",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -567,14 +631,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/68b98748ceb5f851/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/68b98748ceb5f851\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 162,
+    "answer2": "Good",
+    "answer": "Good",
+    "annotator": 1,
+    "annotation_id": 89,
+    "created_at": "2025-04-27T14:59:45.228267Z",
+    "updated_at": "2025-04-27T14:59:45.228267Z",
+    "lead_time": 20.583
   },
   {
     "title": "حلیم گندم لرستان",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -633,14 +706,23 @@
     ],
     "occasion": "صبحانه",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/caba2874500c4c7f/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/caba2874500c4c7f\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 163,
+    "answer2": "Bad",
+    "answer": "Bad",
+    "annotator": 1,
+    "annotation_id": 90,
+    "created_at": "2025-04-27T14:59:57.698456Z",
+    "updated_at": "2025-04-27T14:59:57.698456Z",
+    "lead_time": 10.73
   },
   {
     "title": "شب یلدا (شو چله) لرستان",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -705,14 +787,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/1eb5d532f176ffe3/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/1eb5d532f176ffe3\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 164,
+    "answer": "Good",
+    "answer2": "Good",
+    "annotator": 1,
+    "annotation_id": 91,
+    "created_at": "2025-04-27T15:00:26.061367Z",
+    "updated_at": "2025-04-27T15:00:26.061367Z",
+    "lead_time": 26.383
   },
   {
     "title": "گَنِم شادونَه لرستان مخصوصِ شُو چِلَه😄❤❤❤(گندم شاهدونه مخصوص یلدا)",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -770,14 +861,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/e3d989c19a90bb00/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/e3d989c19a90bb00\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 165,
+    "answer2": "Good",
+    "answer": "Good",
+    "annotator": 1,
+    "annotation_id": 92,
+    "created_at": "2025-04-27T15:00:40.201701Z",
+    "updated_at": "2025-04-27T15:00:40.201701Z",
+    "lead_time": 12.161
   },
   {
     "title": "چزنک رغو(میان وعده محلی استان لرستان)",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -818,14 +918,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/759cceb7713542e7/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/759cceb7713542e7\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 166,
+    "answer2": "Good",
+    "answer": "Good",
+    "annotator": 1,
+    "annotation_id": 93,
+    "created_at": "2025-04-27T15:01:45.668770Z",
+    "updated_at": "2025-04-27T15:01:45.668770Z",
+    "lead_time": 61.727
   },
   {
     "title": "ماست کِز زده (دودی) لرستان😋👌",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -852,14 +961,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/c90faed81aaae2e9/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/c90faed81aaae2e9\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 167,
+    "answer2": "Good",
+    "answer": "Good",
+    "annotator": 1,
+    "annotation_id": 94,
+    "created_at": "2025-04-27T15:02:01.975102Z",
+    "updated_at": "2025-04-27T15:02:01.975102Z",
+    "lead_time": 14.131
   },
   {
     "title": "نان کلوا لرستان",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -950,14 +1068,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/abd43a5955aaea9a/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/abd43a5955aaea9a\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 168,
+    "answer2": "Good",
+    "answer": "Good",
+    "annotator": 1,
+    "annotation_id": 95,
+    "created_at": "2025-04-27T15:02:40.044141Z",
+    "updated_at": "2025-04-27T15:02:40.044141Z",
+    "lead_time": 35.725
   },
   {
     "title": "نان چزنک رغو لرستان(شلکینه)",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -1013,72 +1140,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/ee5a9856e6401227/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/ee5a9856e6401227\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
-  },
-  {
-    "title": "نان کلوای لرستان",
-    "location": {
-      "city": "خرم‌آباد",
-      "latitude": 33.4878,
-      "longitude": 48.3558
     },
-    "ingredients": [
-      {
-        "name": "آرد",
-        "amount": 3.0,
-        "unit": "لیوان"
-      },
-      {
-        "name": "شکر",
-        "amount": 3.0,
-        "unit": "لیوان"
-      },
-      {
-        "name": "کره یا روغن حیوانی",
-        "amount": 60.0,
-        "unit": "گرم"
-      },
-      {
-        "name": "شیر",
-        "amount": 2.0,
-        "unit": "لیوان"
-      },
-      {
-        "name": "زردچوبه، رازیانه، زیره از هر کدام",
-        "amount": 1.0,
-        "unit": "قاشق مرباخوری"
-      },
-      {
-        "name": "مایع خمیر",
-        "amount": 1.0,
-        "unit": "قاشق غ"
-      }
-    ],
-    "instructions": [
-      "ابتدا آرد رو الک میکنیم، نمک، زردچوبه، زیره، شکربه آرد اضافه میکنیم",
-      "پودر مایع خمیر رو با کمی شکر و شیر یا آب عمل می آوریم",
-      "بعد کره نرم شده همراه مایع خمیر به آرد اضافه میکنیم، شیر رو کم کم به آرد اضافه میکنیم و خوب ورز میدهیم، خمیر نباید زیاد شل و یا سفت باشه باید خمیری لطیف بدست بیاد",
-      "دو ساعت در جای گرمی استراحت میدهیم، وقتی خمیر پف کرد، به اندازه نارنگی بر می داریم، کمی پهن میکنیم، 10 دقیقه دیگه زمان میدهیم تا خوب ور بیاد",
-      "فر رو از قبل 10 دقیقه گرم میکنیم.",
-      "زرده یک عدد تخم مرغ با کمی روغن مایع و کمی شیر مخلوط میکنیم. و با فرچه روی خمیر میمالیم و در فر قرار میدهیم",
-      "40 دقیقه زمان میدهیم، وقتی زیر نان ها طلایی شد، 10 دقیقه شعله بالا رو روشن میکنیم تا روی نان ها طلایی شود"
-    ],
-    "meal_type": [
-      "نان و شیرینی"
-    ],
-    "occasion": "شام",
-    "images": {
-      "main": "https://img-global.cpcdn.com/recipes/01a1f0d2eec60ef0/400x400cq70/photo.jpg",
-      "step1": null,
-      "step2": null
-    }
+    "id": 169,
+    "answer": "Good",
+    "answer2": "Good",
+    "annotator": 1,
+    "annotation_id": 96,
+    "created_at": "2025-04-27T15:03:07.478795Z",
+    "updated_at": "2025-04-27T15:03:07.478795Z",
+    "lead_time": 24.751
   },
   {
     "title": "آبگوشت کشک (آبگوشت دودار)",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -1149,7 +1227,7 @@
       "ابتدا گوشت و یک عدد پیاز و فلفل و زردچوبه و سیر را داخل قابلمه ریخته به مقدار لازم آب اضافه میکنیم و می‌زاریم روی حرارت تا گوشت بپزه",
       "بعد از اینکه گوشت پخته شد بادمجان و سیب زمینی و حبوبات پخته شده را اضافه میکنیم",
       "یک عدد پیاز دیگه را نگینی خرد میکنیم و تفت میدیم و دنبه که با گوشت پخته شده را به آن اضافه میکنیم و کمی تفت میدیم و نعناع خشک را اضافه میکنیم و به آبگوشت اضافه میکنیم",
-      "در آخر کشک را با 1/4 لیوان آب مخلوط میکنیم و اضافه میکنیم",
+      "در آخر کشک را با 1\/4 لیوان آب مخلوط میکنیم و اضافه میکنیم",
       "(دقت کنید که نمک را بعد از اضافه کردن کشک اضافه کنید که شور نشه)",
       "سپس آب آن را جدا میکنیم و بقیه مواد را میکوبیم",
       "نوش جان 🌹"
@@ -1159,14 +1237,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/3c5ab0cb47f58ddf/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/3c5ab0cb47f58ddf\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 171,
+    "answer": "Bad",
+    "answer2": "Bad",
+    "annotator": 1,
+    "annotation_id": 98,
+    "created_at": "2025-04-27T15:06:21.498414Z",
+    "updated_at": "2025-04-27T15:06:21.498414Z",
+    "lead_time": 169.543
   },
   {
     "title": "آش ترخینه دوغ یا کشکینه لرستان",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -1219,14 +1306,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/4a3bacc3836b9d27/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/4a3bacc3836b9d27\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 172,
+    "answer": "Bad",
+    "answer2": "Bad",
+    "annotator": 1,
+    "annotation_id": 99,
+    "created_at": "2025-04-27T15:06:45.767197Z",
+    "updated_at": "2025-04-27T15:06:45.767197Z",
+    "lead_time": 21.709
   },
   {
     "title": "آش بادمجان",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -1240,7 +1336,7 @@
       {
         "name": "برنج ",
         "amount": 3.0,
-        "unit":"پیمانه"
+        "unit": "پیمانه"
       },
       {
         "name": "ماش",
@@ -1293,14 +1389,23 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/d07d02b6188cbf33/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/d07d02b6188cbf33\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 173,
+    "answer": "Bad",
+    "answer2": "Bad",
+    "annotator": 1,
+    "annotation_id": 100,
+    "created_at": "2025-04-27T15:07:02.521010Z",
+    "updated_at": "2025-04-27T15:07:02.521010Z",
+    "lead_time": 14.606
   },
   {
     "title": "آش شله - آش محلی خرم آباد",
     "location": {
+      "province": "لرستان",
       "city": "خرم‌آباد",
       "latitude": 33.4878,
       "longitude": 48.3558
@@ -1335,9 +1440,779 @@
     ],
     "occasion": "شام",
     "images": {
-      "main": "https://img-global.cpcdn.com/recipes/4c67068815e76940/400x400cq70/photo.jpg",
+      "main": "https:\/\/img-global.cpcdn.com\/recipes\/4c67068815e76940\/400x400cq70\/photo.jpg",
       "step1": null,
       "step2": null
-    }
+    },
+    "id": 174,
+    "answer": "Good",
+    "answer2": "Good",
+    "annotator": 1,
+    "annotation_id": 101,
+    "created_at": "2025-04-27T15:08:13.054462Z",
+    "updated_at": "2025-04-27T15:08:13.054462Z",
+    "lead_time": 68.531
+  },
+  {
+    "title": "آبگوشت لری گُولَه ریزه",
+    "location": {
+      "province": "لرستان",
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
+    "ingredients": [
+      {
+        "name": "گوشت چرخ کرده",
+        "amount": 500.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "برنج نیم دانه",
+        "amount": 100.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "آرد گندم",
+        "amount": 100.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "روغن",
+        "amount": 100.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "سیب زمینی",
+        "amount": 2.0,
+        "unit": "عدد"
+      },
+      {
+        "name": "رب گوجه",
+        "amount": 3.0,
+        "unit": "قاشق غذاخوری"
+      },
+      {
+        "name": "نمک و زردچوبه",
+        "amount": null,
+        "unit": null
+      }
+    ],
+    "instructions": [
+      "رب گوجه و نمک و زردچوبه را داخل قابلمه با روغن مخلوط کرده و پس از افزودن ۱.۵ لیتر آب، روی حرارت ملایم می‌گذاریم تا بجوشد.",
+      "گوشت چرخ کرده، برنج نیم دانه، آرد گندم و ادویه‌ها را خوب ورز می‌دهیم و گلوله‌های کوچک (گُله ریزه) درست می‌کنیم.",
+      "گلوله‌ها را به آب در حال جوش اضافه می‌کنیم تا نیم پز شوند.",
+      "سیب زمینی‌های خلال شده را به قابلمه اضافه کرده و اجازه می‌دهیم همه مواد با حرارت ملایم بپزند.",
+      "پس از ۳۰ دقیقه آبگوشت لری گُله ریزه آماده سرو است."
+    ],
+    "meal_type": [
+      "غذای اصلی گوشتی"
+    ],
+    "occasion": "ناهار",
+    "images": {
+      "main": null,
+      "step1": null,
+      "step2": null
+    },
+    "id": 175,
+    "answer": "Good",
+    "answer2": "Good",
+    "annotator": 1,
+    "annotation_id": 102,
+    "created_at": "2025-04-27T15:10:54.542009Z",
+    "updated_at": "2025-04-27T15:10:54.542009Z",
+    "lead_time": 159.604
+  },
+  {
+    "title": "پرتله",
+    "location": {
+      "province": "لرستان",
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
+    "ingredients": [
+      {
+        "name": "گندم شیر",
+        "amount": 1000.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "شیر تازه",
+        "amount": 2000.0,
+        "unit": "میلی‌لیتر"
+      },
+      {
+        "name": "نمک",
+        "amount": null,
+        "unit": null
+      }
+    ],
+    "instructions": [
+      "گندم شیر را کوبیده و با یک لیتر آب بپزید.",
+      "شیر را طی دو مرحله اضافه کرده و مرتب هم بزنید.",
+      "نمک را افزوده و با حرارت کم اجازه دهید لعاب بیندازد و جا بیفتد."
+    ],
+    "meal_type": [
+      "آش و سوپ"
+    ],
+    "occasion": "ناهار",
+    "images": {
+      "main": null,
+      "step1": null,
+      "step2": null
+    },
+    "id": 176,
+    "answer2": "Good",
+    "answer": "Good",
+    "annotator": 1,
+    "annotation_id": 103,
+    "created_at": "2025-04-27T15:11:46.277789Z",
+    "updated_at": "2025-04-27T15:13:02.741528Z",
+    "lead_time": 62.113
+  },
+  {
+    "title": "ماسوا",
+    "location": {
+      "province": "لرستان",
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
+    "ingredients": [
+      {
+        "name": "بلغور گندم",
+        "amount": 2.0,
+        "unit": "پیمانه"
+      },
+      {
+        "name": "عدس درشت",
+        "amount": 0.5,
+        "unit": "پیمانه"
+      },
+      {
+        "name": "نخود",
+        "amount": 1.0,
+        "unit": "پیمانه"
+      },
+      {
+        "name": "پیاز داغ",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "کشک",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "زردچوبه و نمک",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "سبزی آش",
+        "amount": 500.0,
+        "unit": "گرم"
+      }
+    ],
+    "instructions": [
+      "حبوبات و بلغور را می‌پزیم.",
+      "پیاز داغ و سبزی خرد شده را اضافه کرده و نمک و زردچوبه می‌زنیم.",
+      "وقتی پخته شد، کشک اضافه می‌کنیم و آش را جا می‌اندازیم."
+    ],
+    "meal_type": [
+      "آش و سوپ"
+    ],
+    "occasion": "ناهار",
+    "images": {
+      "main": null,
+      "step1": null,
+      "step2": null
+    },
+    "id": 177,
+    "answer": "Good",
+    "answer2": "Good",
+    "annotator": 1,
+    "annotation_id": 104,
+    "created_at": "2025-04-27T15:12:49.925538Z",
+    "updated_at": "2025-04-27T15:12:49.925538Z",
+    "lead_time": 48.726
+  },
+  {
+    "title": "گیپه",
+    "location": {
+      "province": "لرستان",
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
+    "ingredients": [
+      {
+        "name": "شکمبه گوسفند",
+        "amount": 1200.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "برنج",
+        "amount": 250.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "زعفران دم کرده",
+        "amount": 0.5,
+        "unit": "فنجان"
+      },
+      {
+        "name": "گوشت چرخ کرده",
+        "amount": 250.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "پیاز داغ عسلی",
+        "amount": 3.0,
+        "unit": "قاشق سوپخوری"
+      },
+      {
+        "name": "زیره",
+        "amount": 1.0,
+        "unit": "قاشق سوپخوری"
+      },
+      {
+        "name": "لپه",
+        "amount": 1.0,
+        "unit": "فنجان"
+      },
+      {
+        "name": "زردچوبه",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "فلفل",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "نمک",
+        "amount": null,
+        "unit": null
+      }
+    ],
+    "instructions": [
+      "برنج و لپه را خیس کرده، سپس با مواد دیگر مخلوط و در شکمبه بسته‌بندی می‌کنیم.",
+      "شکمبه‌های پر شده را با نخ می‌بندیم و سوراخ می‌کنیم تا باد نکند.",
+      "در قابلمه آب ریخته و با حرارت ملایم چند ساعت می‌پزیم تا آب جذب شود."
+    ],
+    "meal_type": [
+      "غذای اصلی گوشتی"
+    ],
+    "occasion": "ناهار",
+    "images": {
+      "main": null,
+      "step1": null,
+      "step2": null
+    },
+    "id": 178,
+    "answer2": "Good",
+    "answer": "Good",
+    "annotator": 1,
+    "annotation_id": 105,
+    "created_at": "2025-04-27T15:13:36.032127Z",
+    "updated_at": "2025-04-27T15:13:36.032127Z",
+    "lead_time": 24.803
+  },
+  {
+    "title": "خورش قلیه ترش",
+    "location": {
+      "province": "لرستان",
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
+    "ingredients": [
+      {
+        "name": "گوشت گوسفند",
+        "amount": 500.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "پیاز",
+        "amount": 1.0,
+        "unit": "عدد"
+      },
+      {
+        "name": "آب انار",
+        "amount": 1.0,
+        "unit": "فنجان"
+      },
+      {
+        "name": "رب انار",
+        "amount": 2.0,
+        "unit": "قاشق سوپخوری"
+      },
+      {
+        "name": "سیب زمینی",
+        "amount": 4.0,
+        "unit": "عدد"
+      },
+      {
+        "name": "نمک، زردچوبه، فلفل",
+        "amount": null,
+        "unit": null
+      }
+    ],
+    "instructions": [
+      "گوشت، پیاز و سیب زمینی را جداگانه پخته و مخلوط می‌کنیم.",
+      "آب انار، رب انار، ادویه و پیاز داغ را اضافه کرده و روی حرارت ملایم جا می‌اندازیم."
+    ],
+    "meal_type": [
+      "غذای اصلی گوشتی"
+    ],
+    "occasion": "ناهار",
+    "images": {
+      "main": null,
+      "step1": null,
+      "step2": null
+    },
+    "id": 179,
+    "answer": "Good",
+    "answer2": "Good",
+    "annotator": 1,
+    "annotation_id": 106,
+    "created_at": "2025-04-27T15:14:47.863848Z",
+    "updated_at": "2025-04-27T15:14:47.863848Z",
+    "lead_time": 69.908
+  },
+  {
+    "title": "بلی شیر (شیر بلوط)",
+    "location": {
+      "province": "لرستان",
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
+    "ingredients": [
+      {
+        "name": "مغز بلوط",
+        "amount": 500.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "شیر",
+        "amount": 2.0,
+        "unit": "لیتر"
+      },
+      {
+        "name": "نمک و زردچوبه",
+        "amount": null,
+        "unit": null
+      }
+    ],
+    "instructions": [
+      "بلوط‌ها را شب قبل در شیر خیس کرده، سپس خرد کرده و می‌پزیم.",
+      "مقداری از بلوط را کوبیده و به بقیه بازمی‌گردانیم تا مخلوط لعاب بیندازد."
+    ],
+    "meal_type": [
+      "دسر"
+    ],
+    "occasion": "عصرانه",
+    "images": {
+      "main": null,
+      "step1": null,
+      "step2": null
+    },
+    "id": 180,
+    "answer": "Good",
+    "answer2": "Good",
+    "annotator": 1,
+    "annotation_id": 107,
+    "created_at": "2025-04-27T15:15:13.542484Z",
+    "updated_at": "2025-04-27T15:15:13.542484Z",
+    "lead_time": 23.86
+  },
+  {
+    "title": "بلی ماس (ماست بلوط)",
+    "location": {
+      "province": "لرستان",
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
+    "ingredients": [
+      {
+        "name": "بلوط",
+        "amount": 500.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "ماست",
+        "amount": 1000.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "روغن حیوانی",
+        "amount": 100.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "نمک و پونه",
+        "amount": null,
+        "unit": null
+      }
+    ],
+    "instructions": [
+      "بلوط‌ها را داخل آتش برشته کرده، پوست می‌کنیم و آسیاب می‌کنیم.",
+      "با نمک، پونه و روغن تفت داده و به ماست اضافه می‌کنیم."
+    ],
+    "meal_type": [
+      "دسر"
+    ],
+    "occasion": "عصرانه",
+    "images": {
+      "main": null,
+      "step1": null,
+      "step2": null
+    },
+    "id": 181,
+    "answer2": "Good",
+    "answer": "Good",
+    "annotator": 1,
+    "annotation_id": 108,
+    "created_at": "2025-04-27T15:15:30.535770Z",
+    "updated_at": "2025-04-27T15:15:30.535770Z",
+    "lead_time": 14.429
+  },
+  {
+    "title": "دلمه برگ مو",
+    "location": {
+      "province": "لرستان",
+      "city": "بروجرد",
+      "latitude": 33.8972,
+      "longitude": 48.7518
+    },
+    "ingredients": [
+      {
+        "name": "برگ مو",
+        "amount": 500.0,
+        "unit": "عدد"
+      },
+      {
+        "name": "سبزی (تره، پیازچه، شوید، مرزه، ترخون و نعناع)",
+        "amount": 1000.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "باقلا",
+        "amount": 250.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "گوشت چرخ کرده",
+        "amount": 250.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "ماست ساده کم چرب",
+        "amount": 1.0,
+        "unit": "فنجان"
+      },
+      {
+        "name": "روغن حیوانی",
+        "amount": 100.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "برنج",
+        "amount": 500.0,
+        "unit": "گرم"
+      }
+    ],
+    "instructions": [
+      "سبزیجات را خرد کرده و باقلا را می‌پزیم.",
+      "برنج را آبکش کرده، با مواد مخلوط می‌کنیم و داخل برگ مو می‌پیچیم.",
+      "با آب و حرارت ملایم می‌پزیم تا آب بخار شود."
+    ],
+    "meal_type": [
+      "غذای اصلی گیاهی"
+    ],
+    "occasion": "ناهار",
+    "images": {
+      "main": null,
+      "step1": null,
+      "step2": null
+    },
+    "id": 182,
+    "answer2": "Good",
+    "answer": "Good",
+    "annotator": 1,
+    "annotation_id": 109,
+    "created_at": "2025-04-27T15:15:47.988784Z",
+    "updated_at": "2025-04-27T15:15:47.988784Z",
+    "lead_time": 13.33
+  },
+  {
+    "title": "شومی کوو",
+    "location": {
+      "province": "لرستان",
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
+    "ingredients": [
+      {
+        "name": "گوشت چرخ کرده",
+        "amount": 250.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "سیب زمینی",
+        "amount": 4.0,
+        "unit": "عدد"
+      },
+      {
+        "name": "سبزی معطر",
+        "amount": 2.0,
+        "unit": "قاشق غذاخوری"
+      },
+      {
+        "name": "تخم مرغ",
+        "amount": 2.0,
+        "unit": "عدد"
+      },
+      {
+        "name": "رب انار",
+        "amount": 1.0,
+        "unit": "قاشق غذاخوری"
+      },
+      {
+        "name": "آرد",
+        "amount": 1.0,
+        "unit": "قاشق غذاخوری"
+      },
+      {
+        "name": "نمک و ادویه",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "پیاز",
+        "amount": 2.0,
+        "unit": "عدد"
+      },
+      {
+        "name": "مغز گردو",
+        "amount": 2.0,
+        "unit": "قاشق غذاخوری"
+      }
+    ],
+    "instructions": [
+      "سیب زمینی و پیاز رنده شده را با گوشت و تخم مرغ و بقیه مواد مخلوط می‌کنیم.",
+      "کتلت‌ها را سرخ کرده و با سس رب انار و گردو می‌پزیم."
+    ],
+    "meal_type": [
+      "غذای اصلی گوشتی"
+    ],
+    "occasion": "ناهار",
+    "images": {
+      "main": null,
+      "step1": null,
+      "step2": null
+    },
+    "id": 183,
+    "answer2": "Good",
+    "answer": "Good",
+    "annotator": 1,
+    "annotation_id": 110,
+    "created_at": "2025-04-27T15:16:03.026655Z",
+    "updated_at": "2025-04-27T15:16:03.026655Z",
+    "lead_time": 13.296
+  },
+  {
+    "title": "کوفته نخودچی",
+    "location": {
+      "province": "لرستان",
+      "city": "بروجرد",
+      "latitude": 33.8972,
+      "longitude": 48.7518
+    },
+    "ingredients": [
+      {
+        "name": "گوشت چرخ کرده",
+        "amount": 400.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "هویج رنده شده",
+        "amount": 5.0,
+        "unit": "عدد متوسط"
+      },
+      {
+        "name": "پیاز رنده شده",
+        "amount": 1.0,
+        "unit": "عدد متوسط"
+      },
+      {
+        "name": "تره خرد شده",
+        "amount": 0.5,
+        "unit": "پیمانه"
+      },
+      {
+        "name": "آرد نخودچی",
+        "amount": 4.0,
+        "unit": "قاشق غذاخوری"
+      },
+      {
+        "name": "گردو خرد شده",
+        "amount": 0.5,
+        "unit": "پیمانه"
+      },
+      {
+        "name": "تخم مرغ",
+        "amount": 1.0,
+        "unit": "عدد"
+      },
+      {
+        "name": "نمک و زردچوبه",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "روغن",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "پیاز خرد شده (برای سس)",
+        "amount": 1.0,
+        "unit": "عدد کوچک"
+      },
+      {
+        "name": "گوشت چرخ کرده (برای سس)",
+        "amount": 100.0,
+        "unit": "گرم"
+      },
+      {
+        "name": "تره خرد شده (برای سس)",
+        "amount": 0.33,
+        "unit": "پیمانه"
+      },
+      {
+        "name": "سرکه",
+        "amount": 0.33,
+        "unit": "استکان"
+      },
+      {
+        "name": "شکر",
+        "amount": 3.0,
+        "unit": "قاشق غذاخوری"
+      },
+      {
+        "name": "نمک و زردچوبه (برای سس)",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "رب گوجه فرنگی",
+        "amount": 1.0,
+        "unit": "قاشق غذاخوری"
+      },
+      {
+        "name": "آرد سفید",
+        "amount": 1.0,
+        "unit": "قاشق غذاخوری"
+      }
+    ],
+    "instructions": [
+      "برای سس: پیاز خرد شده را تفت داده، گوشت، نمک، زردچوبه، تره و رب گوجه را اضافه کرده و تفت می‌دهیم. سپس آرد سفید افزوده و ۳ لیوان آب اضافه می‌کنیم و بعد از غلیظ شدن، سرکه و شکر را اضافه کرده و می‌جوشانیم.",
+      "برای کوفته: گوشت چرخ کرده، هویج، پیاز، نمک، زردچوبه، گردو، تره، آرد نخودچی و تخم مرغ را مخلوط می‌کنیم. کوفته‌ها را شکل داده و در روغن داغ سرخ می‌کنیم.",
+      "در نهایت کوفته‌ها را در سس ریخته و حدود نیم ساعت می‌گذاریم تا خوب بپزد."
+    ],
+    "meal_type": [
+      "غذای اصلی گوشتی"
+    ],
+    "occasion": "ناهار",
+    "images": {
+      "main": null,
+      "step1": null,
+      "step2": null
+    },
+    "id": 184,
+    "answer2": "Good",
+    "answer": "Good",
+    "annotator": 1,
+    "annotation_id": 111,
+    "created_at": "2025-04-27T15:16:29.287963Z",
+    "updated_at": "2025-04-27T15:16:29.287963Z",
+    "lead_time": 24.612
+  },
+  {
+    "title": "نان کلوا شیر ورقه‌ای",
+    "location": {
+      "province": "لرستان",
+      "city": "خرم‌آباد",
+      "latitude": 33.4878,
+      "longitude": 48.3558
+    },
+    "ingredients": [
+      {
+        "name": "پودر خمیر ترش (یا بکینگ پودر)",
+        "amount": 1.0,
+        "unit": "قاشق مرباخوری"
+      },
+      {
+        "name": "شکر",
+        "amount": 1.0,
+        "unit": "قاشق چایخوری"
+      },
+      {
+        "name": "آب ولرم",
+        "amount": 0.5,
+        "unit": "پیمانه"
+      },
+      {
+        "name": "شیر ولرم",
+        "amount": 2.0,
+        "unit": "پیمانه"
+      },
+      {
+        "name": "آرد",
+        "amount": 5.0,
+        "unit": "تا 6 پیمانه"
+      },
+      {
+        "name": "روغن مایع",
+        "amount": 0.5,
+        "unit": "پیمانه"
+      },
+      {
+        "name": "بهبود دهنده آرد",
+        "amount": 0.5,
+        "unit": "قاشق چایخوری"
+      }
+    ],
+    "instructions": [
+      "پودر خمیر ترش و شکر را در آب ولرم حل کرده و اجازه می‌دهیم پف کند.",
+      "شیر، مخلوط خمیر، نصف پیمانه آرد و بهبوددهنده را مخلوط کرده، سپس روغن و بقیه آرد را اضافه کرده و ورز می‌دهیم.",
+      "خمیر را استراحت داده تا دو برابر شود، سپس چانه‌گیری کرده و باز می‌کنیم.",
+      "خمیرهای باز شده را روی ساج داغ پخته و هر طرف را جداگانه می‌پزیم."
+    ],
+    "meal_type": [
+      "نان و شیرینی"
+    ],
+    "occasion": "عصرانه",
+    "images": {
+      "main": null,
+      "step1": null,
+      "step2": null
+    },
+    "id": 185,
+    "answer2": "Good",
+    "answer": "Good",
+    "annotator": 1,
+    "annotation_id": 112,
+    "created_at": "2025-04-27T15:16:40.709426Z",
+    "updated_at": "2025-04-27T15:16:40.709426Z",
+    "lead_time": 9.567
   }
 ]
